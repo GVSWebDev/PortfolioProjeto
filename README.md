@@ -18,7 +18,7 @@ ter acesso a lista de comandos ( C:/*pastas*/hugo.exe help) e basta substituir h
 ## Criando um site
 Sabendo como executar um comando, para criar um site primeiro acesse o diretório que deseja armazenar o site eexecute o comando 
 new site *nomedosite*. Será criada uma pasta no diretório do hugo com o nome do site escolhido. 
-Para o site em si funcioar é necessário instalar um [tema.](https://themes.gohugo.io)
+Para o site em si funcionar é necessário instalar um [tema.](https://themes.gohugo.io)
 Basta baixar um dos temas da lista e jogar na pasta themes do site criado anteriormente.
 Para acessar o site para testes é necessário abrir um server interno do Hugo, basta executar o diretório criado e executar
 o comando server.
