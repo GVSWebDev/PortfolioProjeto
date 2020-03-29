@@ -2,13 +2,13 @@
 @import "variables";
 
 // Dependencies
-@import '~normalize.css/normalize.css';
-@import '~skeleton-css/css/skeleton.css';
+@import 'normalize.css/normalize';
+@import 'skeleton-css/css/skeleton';
 @import '@fortawesome/fontawesome-free/scss/brands';
 @import '@fortawesome/fontawesome-free/scss/regular';
 @import '@fortawesome/fontawesome-free/scss/solid';
 @import '@fortawesome/fontawesome-free/scss/fontawesome';
-@import '~flexslider/flexslider.css';
+@import 'flexslider/flexslider';
 @import 'fontface';
 
 // Choose one of the supported syntax highlighting styles
@@ -17,3 +17,4 @@
 
 // Basic bilberry styling
 @import 'bilberry-hugo-theme';
+
