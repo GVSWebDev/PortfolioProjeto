@@ -27,5 +27,15 @@ o comando server.
 Para criar um post primeiro é necessário saber qual tipo de post se deseja criar, o tema que estamos utilizando permite criar
 os tipos artigo, audio, código, galeria, link, página, citação e vídeo.
 Ao escolher um dos tipos de post execute o comando new *tipo*/nomedoposte.md
-Para utilizar os tipos de post mais cutomizáveis dê uma olhada na pasta exampleSite que contém posts pré montados de cada tipo.
+Para utilizar os tipos de post mais cutomizáveis dê uma olhada na pasta exampleSite que contém posts pré montados de cada tipo. 
+
+## Modificando o tema
+O tema Bilberry usa o pré-processador de CSS chamado SASS. É uma ferramenta poderosa 
+que expande as funcionalidades do CSS, como por
+exemplo a utilização de variáveis. Ele deve ser instalado por várias formas, localizadas no seu [website](https://sass-lang.com/install).
+Após instalado, com seu terminal de preferencia, navegue até 
+`\blogpi.com\themes\billberry-hugo-theme\assets\sass\` e coloque o comando
+ `sass --watch theme.scss ../static/theme.css`. Isso irá fazer com que quaisquer mudanças
+  feitas nos arquivos SASS do tema sejam automaticamente compilados para CSS no diretório correto.
+
 ![perhaps](https://i.redd.it/dg6qctwlbrt21.jpg)
