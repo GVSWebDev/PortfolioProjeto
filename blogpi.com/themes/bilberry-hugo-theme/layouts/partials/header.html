@@ -22,19 +22,7 @@
             <span class="subtitle">{{ . }}</span>
             {{ end }}
         </div>
-
-        {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
-        {{- $.Scratch.Set "language" .Language -}}
-        <div class="languages">
-        {{ range $.Site.Home.AllTranslations }}
-            {{ if eq ($.Scratch.Get "language") .Language }}
-                <a href="{{ .Permalink }}" class="active">{{ .Language }}</a>
-            {{ else }}
-                <a href="{{ .Permalink }}">{{ .Language }}</a>
-            {{ end }}
-        {{ end }}
-        </div>
-        {{ end }}
+        
 
         {{ if .Site.Params.permanentTopNav }}
         <div class="toggler permanentTopNav">
@@ -44,4 +32,32 @@
                 <i class="fa fa-bars" aria-hidden="true"></i>
             </div>
         </div>
+        <div class="cstm-menu-strip">
+                <div class="cstm-menu-container">
+                    <div class="cstm-btn-container">
+                        <a>Blog</a>
+                    </div>
+                    <div class="cstm-btn-container">
+                        <a>{{i18n "personalProjects"}}</a>
+                    </div>
+                    <div class="cstm-btn-container">
+                        <a>Tech Stack</a>
+                    </div>
+                    <div class="cstm-btn-container">
+                        <a>{{i18n "aboutUs"}}</a>
+                    </div>
+                {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
+                {{- $.Scratch.Set "language" .Language -}}
+                <div class="languages cstm-btn-container">
+                {{ range $.Site.Home.AllTranslations }}
+                    {{ if eq ($.Scratch.Get "language") .Language }}
+                        <a href="{{ .Permalink }}" class="active">{{ .Language }}</a>
+                    {{ else }}
+                        <a href="{{ .Permalink }}">{{ .Language }}</a>
+                    {{ end }}
+                {{ end }}
+                </div>
+                {{ end }}
+                </div>
+            </div>
 </header>

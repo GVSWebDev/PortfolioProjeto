@@ -1,3 +1,11 @@
+@media (max-width: 700px){
+    header {
+        .cstm-menu-container{
+            display: none;
+        }
+    }
+}
+
 @media (max-width: 750px) {
 
     nav {
@@ -53,6 +61,10 @@
                 display: block;
             }
         }
+
+        .cstm-menu-container{
+            width: 95%;
+        }
     }
 
     .bubble {
@@ -107,4 +119,33 @@
     .credits .container {
         padding: 4rem 1.5em;
     }
+
+    
 }
+
+@media (min-width: 1100px){
+    header {
+        .cstm-menu-container{
+            width: 60%;
+        }
+    }
+}
+
+@media (min-width: 1400px){
+    header {
+        .cstm-menu-container{
+            width: 50%;
+        }
+
+        .cstm-menu-strip{
+            z-index: 0 !important;
+        }
+    }
+
+    .container {
+        &::after{
+            opacity: 100 !important;
+        }
+    }
+}
+

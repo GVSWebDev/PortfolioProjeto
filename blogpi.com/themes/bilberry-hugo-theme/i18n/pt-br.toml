@@ -35,3 +35,8 @@ other = "Outros Idiomas"
 one = "1 min de leitura"
 other = "{{ .Count }} mins. de leitura"
 
+[personalProjects]
+other = "Projetos Pessoais"
+
+[aboutUs]
+other = "Quem Somos"
