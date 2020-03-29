@@ -34,8 +34,8 @@ O tema Bilberry usa o pré-processador de CSS chamado SASS. É uma ferramenta po
 que expande as funcionalidades do CSS, permite por
 exemplo a utilização de variáveis. Ele pode ser instalado por várias formas, localizadas no seu [website](https://sass-lang.com/install).
 Após a instalação ser concluída com sucesso, com seu terminal de preferencia, navegue até 
-`\blogpi.com\themes\billberry-hugo-theme\assets\` e coloque o comando
- `sass --watch sass\theme.scss \static\theme.css`. Isso irá fazer com que quaisquer mudanças
+`blogpi.com/themes/bilberry-hugo-theme` e coloque o comando
+ `sass --watch assets/sass/theme.scss static/theme.css`. Isso irá fazer com que quaisquer mudanças
   feitas nos arquivos SASS do tema sejam automaticamente compilados para CSS no diretório correto.
 
 ![perhaps](https://i.redd.it/dg6qctwlbrt21.jpg)
