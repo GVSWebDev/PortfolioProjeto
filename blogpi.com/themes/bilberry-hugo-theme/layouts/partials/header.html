@@ -9,7 +9,7 @@
                 {{ if and (isset .Site.Params "customimage") (ne .Site.Params.customImage "") }}
                 <img src="{{ .Site.Params.customImage | relURL }}" alt="">
                 {{ else }}
-                <img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatarEMail }}?d=mm&size=200" alt="">
+                <img src="https://i.imgur.com/MnV48W6.jpg" alt="">
                 {{ end }}
 
                 <span class="overlay"><i class="fa {{ .Site.Params.overlayIcon | default "fa-home" }}"></i></span>
