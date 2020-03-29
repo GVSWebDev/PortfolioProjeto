@@ -3,7 +3,7 @@ article {
     overflow: hidden;
     background-color: $article-background-color;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-    width: ($site-width - 100px);
+    width: ($site-width + 20%);
     position: relative;
 
     // :before and :after to generate the < pointer

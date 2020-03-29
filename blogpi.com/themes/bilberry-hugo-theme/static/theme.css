@@ -7688,7 +7688,7 @@ html[xmlns] .flexslider .slides {
   font-size: 15pt;
 }
 .bilberry-hugo-theme .container {
-  width: 800px;
+  width: 70%;
   max-width: 100%;
 }
 .bilberry-hugo-theme ul {
@@ -7877,7 +7877,7 @@ html[xmlns] .flexslider .slides {
   padding: 6px 12px;
 }
 .bilberry-hugo-theme header {
-  background-color: #1d1f38;
+  background-color: #383a53;
   color: #f1f1f1;
   height: 20rem;
   display: flex;
@@ -8050,7 +8050,7 @@ html[xmlns] .flexslider .slides {
   overflow: hidden;
   background-color: #fff;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-  width: 700px;
+  width: 90%;
   position: relative;
 }
 .bilberry-hugo-theme article:before {
@@ -8181,7 +8181,7 @@ html[xmlns] .flexslider .slides {
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
-  background: rgba(29, 31, 56, 0.1);
+  background: rgba(56, 58, 83, 0.1);
   font-family: "Fira Code", monospace;
   font-size: 0.9em;
 }
@@ -8414,7 +8414,7 @@ html[xmlns] .flexslider .slides {
 }
 .bilberry-hugo-theme footer .container ul a:hover {
   left: 10px;
-  color: #1d1f38;
+  color: #383a53;
 }
 .bilberry-hugo-theme footer .container .right .external-profiles {
   width: 100%;
@@ -8472,7 +8472,7 @@ html[xmlns] .flexslider .slides {
 .bilberry-hugo-theme .credits .container:after {
   display: none;
 }
-@media (max-width: 800px) {
+@media (max-width: 750px) {
   .bilberry-hugo-theme nav.permanentTopNav {
     display: none;
   }
