@@ -8,9 +8,21 @@
     <div class="container">
         <ul class="topnav">
             <li><a href="">Blog</a></li>
-            <li><a href="">Projetos Pessoais</a></li>
+            <li><a href="">{{i18n "personalProjects"}}</a></li>
             <li><a href="">Tech Stack</a></li>
-            <li><a href="">Quem Somos</a></li>
+            <li><a href="">{{i18n "aboutUs"}}</a></li>
+            {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
+                {{- $.Scratch.Set "language" .Language -}}
+                <li>
+                {{ range $.Site.Home.AllTranslations }}
+                    {{ if eq ($.Scratch.Get "language") .Language }}
+                        <a style="text-transform: uppercase;" href="{{ .Permalink }}" class="active">{{ .Language }}</a>
+                    {{ else }}
+                        <a style="text-transform: uppercase;" href="{{ .Permalink }}">{{ .Language }}</a>
+                    {{ end }}
+                {{ end }}
+                </li>
+                {{ end }}
         </ul>
 
         {{ if and (isset .Site.Params "algolia_search") (eq .Site.Params.algolia_search true) }}

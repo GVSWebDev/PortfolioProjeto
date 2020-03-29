@@ -38,13 +38,13 @@
                         <a>Blog</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a>Projetos Pessoais</a>
+                        <a>{{i18n "personalProjects"}}</a>
                     </div>
                     <div class="cstm-btn-container">
                         <a>Tech Stack</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a>Quem Somos</a>
+                        <a>{{i18n "aboutUs"}}</a>
                     </div>
                 {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
                 {{- $.Scratch.Set "language" .Language -}}
