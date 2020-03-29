@@ -4,9 +4,9 @@ date: 2017-11-01T09:31:27+01:00
 
 categories: ['Code', 'Tutorials']
 tags: ['Hugo', 'Bilberry Theme']
-author: "Teste"
+author: "Lednerb"
 ---
-SIM PT BR
+You will find all information to setup this theme with your hugo site
 on the official <br> [Github Repository](https://github.com/Lednerb/bilberry-hugo-theme).
 
 <!--more-->

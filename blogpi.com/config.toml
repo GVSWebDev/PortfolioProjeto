@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "Projeto Portfolio"
 baseURL = "https://example.com/"
 theme = "bilberry-hugo-theme"
 
@@ -6,7 +6,7 @@ theme = "bilberry-hugo-theme"
 enableRobotsTXT = true
 
 # Change to one of your content languages definded at the end.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt-br"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -53,7 +53,7 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Olá mundo! Sejam bem-vindos ao nosso portfolio."
 
     # if you want to use gravatar for the header image
     gravatarEMail = "code@lednerb.de"
@@ -128,12 +128,12 @@ disqusShortname = "bilberry-hugo-theme"
 # customize your available languages for your multi-langual site
 # or delete the [Languages] blog to use the theme with only one supported language
 [Languages]
-  [Languages.en]
+  [Languages.pt-br]
     weight = 1
-  [Languages.de]
+  [Languages.en]
     weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+    title = "Portfolio Project"
+    subtitle = "Hello World! Welcome to our Portfolio."
 
 # don't change anything below
 [taxonomies]
