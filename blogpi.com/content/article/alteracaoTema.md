@@ -4,7 +4,7 @@ date: 2020-03-29T20:25:43-03:00
 
 
 categories: []
-tags: ['Atualizações']
+tags: ['Atualizacoes']
 author: "Heber José da Silva Junior"
 
 ---
