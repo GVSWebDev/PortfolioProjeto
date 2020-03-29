@@ -5,7 +5,7 @@ date: 2020-03-29T17:52:11-03:00
 
 categories: []
 tags: ['Quem somos']
-author: "Heber José da Silva Junior"
+author: "Heber Jose da Silva Junior"
 featuredImage: "https://media.discordapp.net/attachments/555568413674700800/693950564836442214/teste1.png?width=957&height=386"
 
 
