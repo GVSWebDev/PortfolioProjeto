@@ -7,10 +7,10 @@
 {{ end }}
     <div class="container">
         <ul class="topnav">
-            <li><a href="">Blog</a></li>
-            <li><a href="">{{i18n "personalProjects"}}</a></li>
-            <li><a href="">Tech Stack</a></li>
-            <li><a href="">{{i18n "aboutUs"}}</a></li>
+            <li><a href="{{ .Site.BaseURL | relLangURL}}">Blog</a></li>
+            <li><a href="{{ "tags/projetos-pessoais" | relLangURL}}">{{i18n "personalProjects"}}</a></li>
+            <li><a href="{{ "tags/tech-stack" | relLangURL}}">Tech Stack</a></li>
+            <li><a href="{{ "tags/quem-somos" | relLangURL}}">{{i18n "aboutUs"}}</a></li>
             {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
                 {{- $.Scratch.Set "language" .Language -}}
                 <li>

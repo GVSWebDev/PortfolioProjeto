@@ -35,16 +35,16 @@
         <div class="cstm-menu-strip">
                 <div class="cstm-menu-container">
                     <div class="cstm-btn-container">
-                        <a>Blog</a>
+                        <a href="{{ .Site.BaseURL | relLangURL}}">Blog</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a>{{i18n "personalProjects"}}</a>
+                        <a href="{{ "tags/projetos-pessoais" | relLangURL}}">{{i18n "personalProjects"}}</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a>Tech Stack</a>
+                        <a href="{{ "tags/tech-stack" | relLangURL}}">Tech Stack</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a>{{i18n "aboutUs"}}</a>
+                        <a href="{{ "tags/quem-somos" | relLangURL}}">{{i18n "aboutUs"}}</a>
                     </div>
                 {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
                 {{- $.Scratch.Set "language" .Language -}}
