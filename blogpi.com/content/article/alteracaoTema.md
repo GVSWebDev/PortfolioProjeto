@@ -5,7 +5,7 @@ date: 2020-03-29T20:25:43-03:00
 
 categories: []
 tags: ['Atualizacoes']
-author: "Heber José da Silva Junior"
+author: "Team Maya"
 
 ---
 Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal,
