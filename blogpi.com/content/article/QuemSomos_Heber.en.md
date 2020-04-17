@@ -7,7 +7,7 @@ categories: []
 tags: ['Quem somos']
 author: "Heber Jose da Silva Junior"
 featuredImage: "https://media.discordapp.net/attachments/555568413674700800/693950564836442214/teste1.png?width=957&height=386"
-
+noSummary: true
 
 
 ---

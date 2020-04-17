@@ -8,7 +8,7 @@ categories: []
 tags: ['Quem somos']
 author: "Joao Pedro Larini"
 featuredImage: "https://media.discordapp.net/attachments/555568413674700800/693953304627249152/geii.png?width=957&height=361"
-
+noSummary: true
 
 
 ---
