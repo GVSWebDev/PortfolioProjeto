@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joao Pedro Larini on Projeto Portfolio</title>
-    <link>https://example.com/author/joao-pedro-larini/</link>
+    <link>/author/joao-pedro-larini/</link>
     <description>Recent content in Joao Pedro Larini on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 17:53:11 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/author/joao-pedro-larini/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/joao-pedro-larini/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quem é João Pedro Larini</title>
-      <link>https://example.com/article/quemsomos_joao/</link>
+      <link>/article/quemsomos_joao/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>https://example.com/article/quemsomos_joao/</guid>
+      <guid>/article/quemsomos_joao/</guid>
       <description>Interessado na área da computação desde cedo, sempre busco me atualizar quanto à novos tipos de tecnologia, tanto para uso profissional quanto pessoal. Possuo cursos completos na área de servidores, manutenção técnica e teórico de hardware. Atualmente cursando ciências da computação. Participei de diversas palestras discutindo inovações propostas por empresas como Amazon, Sotran, Google entre outras. Pretendo profissionalizar na área de servidores e banco de dados e fornecer serviços relatados à área.</description>
     </item>
     

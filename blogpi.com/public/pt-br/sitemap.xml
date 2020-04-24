@@ -3,226 +3,226 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/article/alteracaotema/</loc>
+    <loc>/article/alteracaotema/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/article/alteracaotema/"
+                href="/en/article/alteracaotema/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/article/alteracaotema/"
+                href="/article/alteracaotema/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/article/</loc>
+    <loc>/article/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/article/"
+                href="/en/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/article/"
+                href="/article/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/atualizacoes/</loc>
+    <loc>/tags/atualizacoes/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/atualizacoes/"
+                href="/en/tags/atualizacoes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/tags/atualizacoes/"
+                href="/tags/atualizacoes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/"
+                href="/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/author/"
+                href="/author/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/author/team-maya/</loc>
+    <loc>/author/team-maya/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/team-maya/"
+                href="/en/author/team-maya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/author/team-maya/"
+                href="/author/team-maya/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/author/gabriel-vilela-serra/</loc>
+    <loc>/author/gabriel-vilela-serra/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/gabriel-vilela-serra/"
+                href="/en/author/gabriel-vilela-serra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/author/gabriel-vilela-serra/"
+                href="/author/gabriel-vilela-serra/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/author/joao-pedro-larini/</loc>
+    <loc>/author/joao-pedro-larini/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/joao-pedro-larini/"
+                href="/en/author/joao-pedro-larini/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/author/joao-pedro-larini/"
+                href="/author/joao-pedro-larini/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/quem-somos/</loc>
+    <loc>/tags/quem-somos/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/quem-somos/"
+                href="/en/tags/quem-somos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/tags/quem-somos/"
+                href="/tags/quem-somos/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/article/quemsomos_gabriel/</loc>
+    <loc>/article/quemsomos_gabriel/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/article/quemsomos_gabriel/"
+                href="/en/article/quemsomos_gabriel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/article/quemsomos_gabriel/"
+                href="/article/quemsomos_gabriel/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/article/quemsomos_joao/</loc>
+    <loc>/article/quemsomos_joao/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/article/quemsomos_joao/"
+                href="/en/article/quemsomos_joao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/article/quemsomos_joao/"
+                href="/article/quemsomos_joao/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/author/heber-jose-da-silva-junior/</loc>
+    <loc>/author/heber-jose-da-silva-junior/</loc>
     <lastmod>2020-03-29T17:52:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/author/heber-jose-da-silva-junior/"
+                href="/en/author/heber-jose-da-silva-junior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/author/heber-jose-da-silva-junior/"
+                href="/author/heber-jose-da-silva-junior/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/article/quemsomos_heber/</loc>
+    <loc>/article/quemsomos_heber/</loc>
     <lastmod>2020-03-29T17:52:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/article/quemsomos_heber/"
+                href="/en/article/quemsomos_heber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/article/quemsomos_heber/"
+                href="/article/quemsomos_heber/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/categories/"
+                href="/categories/"
                 />
   </url>
   

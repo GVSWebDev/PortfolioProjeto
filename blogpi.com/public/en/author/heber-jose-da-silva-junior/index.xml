@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heber Jose da Silva Junior on Portfolio Project</title>
-    <link>https://example.com/en/author/heber-jose-da-silva-junior/</link>
+    <link>/en/author/heber-jose-da-silva-junior/</link>
     <description>Recent content in Heber Jose da Silva Junior on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 17:52:11 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/en/author/heber-jose-da-silva-junior/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/author/heber-jose-da-silva-junior/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who is Heber Junior?</title>
-      <link>https://example.com/en/article/quemsomos_heber/</link>
+      <link>/en/article/quemsomos_heber/</link>
       <pubDate>Sun, 29 Mar 2020 17:52:11 -0300</pubDate>
       
-      <guid>https://example.com/en/article/quemsomos_heber/</guid>
+      <guid>/en/article/quemsomos_heber/</guid>
       <description>Currently studying Computer Science, I usually research on the subject since I was a child, in order to facilitate everyday tasks. I am interested in the area of ​​information security, cryptography, social structure and malware, I believe that the area is currently little known and deserves greater attention, given the importance that information manipulation has over other areas. I intend to continue my studies on systems structures and be able to add as much information to the IT community.</description>
     </item>
     

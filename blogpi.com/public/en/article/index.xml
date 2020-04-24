@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Portfolio Project</title>
-    <link>https://example.com/en/article/</link>
+    <link>/en/article/</link>
     <description>Recent content in Articles on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/en/article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme Changes</title>
-      <link>https://example.com/en/article/alteracaotema/</link>
+      <link>/en/article/alteracaotema/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>https://example.com/en/article/alteracaotema/</guid>
+      <guid>/en/article/alteracaotema/</guid>
       <description>We modified the Bilburry theme to better accommodate our project, the theme itself doesn’t have the buttons on the main tab, we implemented them using HTML and SASS to make the types of post we create more organized, we also changed the options from standard languages ​​that are English and German to Portuguese (standard) and English. When the English option is clicked, the site loads an English version of the posts.</description>
     </item>
     
     <item>
       <title>Who is Gabriel Vilela Serra</title>
-      <link>https://example.com/en/article/quemsomos_gabriel/</link>
+      <link>/en/article/quemsomos_gabriel/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>https://example.com/en/article/quemsomos_gabriel/</guid>
+      <guid>/en/article/quemsomos_gabriel/</guid>
       <description>Introduced in the world of computers and games since I was 6 years old, computing has been a great passion for me since I was little. The curiosity to know how the games worked led me to the programming path. In 2013, the Java language was introduced to make a modification of the best game of the time, Minecraft. In the years that followed, I explored more languages ​​like C # to use on Unity, which is a game engine that was starting to become popular at the time.</description>
     </item>
     
     <item>
       <title>Who is João Pedro Larini</title>
-      <link>https://example.com/en/article/quemsomos_joao/</link>
+      <link>/en/article/quemsomos_joao/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>https://example.com/en/article/quemsomos_joao/</guid>
+      <guid>/en/article/quemsomos_joao/</guid>
       <description>Interested in computing from an early age, I always seek to update myself on new types of technology, both for professional use how much staff. I have complete courses in the area of servers, technical maintenance and hardware theory. Currently studying science computing. I participated in several lectures discussing innovations proposed by companies like Amazon, Sotran, Google and others. I intend to professionalize in the area of servers and database and provide services reported to the area.</description>
     </item>
     
     <item>
       <title>Who is Heber Junior?</title>
-      <link>https://example.com/en/article/quemsomos_heber/</link>
+      <link>/en/article/quemsomos_heber/</link>
       <pubDate>Sun, 29 Mar 2020 17:52:11 -0300</pubDate>
       
-      <guid>https://example.com/en/article/quemsomos_heber/</guid>
+      <guid>/en/article/quemsomos_heber/</guid>
       <description>Currently studying Computer Science, I usually research on the subject since I was a child, in order to facilitate everyday tasks. I am interested in the area of ​​information security, cryptography, social structure and malware, I believe that the area is currently little known and deserves greater attention, given the importance that information manipulation has over other areas. I intend to continue my studies on systems structures and be able to add as much information to the IT community.</description>
     </item>
     
