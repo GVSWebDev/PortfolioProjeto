@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joao Pedro Larini on Portfolio Project</title>
-    <link>/en/author/joao-pedro-larini/</link>
+    <link>localhost:1313/en/author/joao-pedro-larini/</link>
     <description>Recent content in Joao Pedro Larini on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 17:53:11 -0300</lastBuildDate>
     
-	<atom:link href="/en/author/joao-pedro-larini/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/en/author/joao-pedro-larini/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who is João Pedro Larini</title>
-      <link>/en/article/quemsomos_joao/</link>
+      <link>localhost:1313/en/article/quemsomos_joao/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>/en/article/quemsomos_joao/</guid>
+      <guid>localhost:1313/en/article/quemsomos_joao/</guid>
       <description>Interested in computing from an early age, I always seek to update myself on new types of technology, both for professional use how much staff. I have complete courses in the area of servers, technical maintenance and hardware theory. Currently studying science computing. I participated in several lectures discussing innovations proposed by companies like Amazon, Sotran, Google and others. I intend to professionalize in the area of servers and database and provide services reported to the area.</description>
     </item>
     

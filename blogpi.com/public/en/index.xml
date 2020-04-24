@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Project</title>
-    <link>/en/</link>
+    <link>localhost:1313/en/</link>
     <description>Recent content on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-        <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Articles</title>
-      <link>/en/article/</link>
+      <link>localhost:1313/en/article/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>/en/article/</guid>
+      <guid>localhost:1313/en/article/</guid>
       <description></description>
     </item>
     

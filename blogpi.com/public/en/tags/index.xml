@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio Project</title>
-    <link>/en/tags/</link>
+    <link>localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atualizacoes</title>
-      <link>/en/tags/atualizacoes/</link>
+      <link>localhost:1313/en/tags/atualizacoes/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>/en/tags/atualizacoes/</guid>
+      <guid>localhost:1313/en/tags/atualizacoes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quem somos</title>
-      <link>/en/tags/quem-somos/</link>
+      <link>localhost:1313/en/tags/quem-somos/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>/en/tags/quem-somos/</guid>
+      <guid>localhost:1313/en/tags/quem-somos/</guid>
       <description></description>
     </item>
     

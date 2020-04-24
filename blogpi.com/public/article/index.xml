@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Projeto Portfolio</title>
-    <link>/article/</link>
+    <link>localhost:1313/article/</link>
     <description>Recent content in Articles on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-	<atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alterações do Tema</title>
-      <link>/article/alteracaotema/</link>
+      <link>localhost:1313/article/alteracaotema/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>/article/alteracaotema/</guid>
+      <guid>localhost:1313/article/alteracaotema/</guid>
       <description>Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal, implementamos eles com o uso de HTML e SASS para que fique mais organizado os tipos de post que criamos, também alteramos as opções de línguagem padrão que são inglês e alemão para português (padrão) e inglês. Quando se clica na opção inglês o site carrega uma versão em inglês dos posts.</description>
     </item>
     
     <item>
       <title>Quem é Gabriel Vilela Serra</title>
-      <link>/article/quemsomos_gabriel/</link>
+      <link>localhost:1313/article/quemsomos_gabriel/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>/article/quemsomos_gabriel/</guid>
+      <guid>localhost:1313/article/quemsomos_gabriel/</guid>
       <description>Introduzido ao mundo dos Computadores e Jogos desde os 6 anos de idade, a computação vem sido uma grande paixão para mim desde pequeno. A curiosidade para saber como os jogos funcionavam me levaram ao caminho da programação. Em 2013 fui introduzido a linguagem Java para fazer uma modificação do melhor jogo da época, o Minecraft. Nos anos seguintes, fui explorando mais linguagens como C# para usar no Unity, que é uma engine de jogos que estava começando a se popularizar na época.</description>
     </item>
     
     <item>
       <title>Quem é João Pedro Larini</title>
-      <link>/article/quemsomos_joao/</link>
+      <link>localhost:1313/article/quemsomos_joao/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>/article/quemsomos_joao/</guid>
+      <guid>localhost:1313/article/quemsomos_joao/</guid>
       <description>Interessado na área da computação desde cedo, sempre busco me atualizar quanto à novos tipos de tecnologia, tanto para uso profissional quanto pessoal. Possuo cursos completos na área de servidores, manutenção técnica e teórico de hardware. Atualmente cursando ciências da computação. Participei de diversas palestras discutindo inovações propostas por empresas como Amazon, Sotran, Google entre outras. Pretendo profissionalizar na área de servidores e banco de dados e fornecer serviços relatados à área.</description>
     </item>
     
     <item>
       <title>Quem é Heber Junior?</title>
-      <link>/article/quemsomos_heber/</link>
+      <link>localhost:1313/article/quemsomos_heber/</link>
       <pubDate>Sun, 29 Mar 2020 17:52:11 -0300</pubDate>
       
-      <guid>/article/quemsomos_heber/</guid>
+      <guid>localhost:1313/article/quemsomos_heber/</guid>
       <description>Atualmente cursando Ciências da computação, costumo pesquisar sobre o assunto desde menor, a fim de facilitar as tarefas do dia à dia. Sou interessado na área de segurança da informação, criptografia, estrutura social e malwares, acredito que a área atualmente é pouco conhecida e merece maior atenção, dada a importância que a manipulação de informações tem sobre as demais áreas. Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar o máximo de informações à comunidade de TI.</description>
     </item>
     

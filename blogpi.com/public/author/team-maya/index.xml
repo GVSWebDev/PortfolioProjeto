@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Maya on Projeto Portfolio</title>
-    <link>/author/team-maya/</link>
+    <link>localhost:1313/author/team-maya/</link>
     <description>Recent content in Team Maya on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-	<atom:link href="/author/team-maya/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/author/team-maya/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alterações do Tema</title>
-      <link>/article/alteracaotema/</link>
+      <link>localhost:1313/article/alteracaotema/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>/article/alteracaotema/</guid>
+      <guid>localhost:1313/article/alteracaotema/</guid>
       <description>Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal, implementamos eles com o uso de HTML e SASS para que fique mais organizado os tipos de post que criamos, também alteramos as opções de línguagem padrão que são inglês e alemão para português (padrão) e inglês. Quando se clica na opção inglês o site carrega uma versão em inglês dos posts.</description>
     </item>
     
