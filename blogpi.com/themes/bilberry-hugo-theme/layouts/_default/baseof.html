@@ -88,11 +88,11 @@
     {{ end }}
 
 
-    <script type="text/javascript" src="{{ "theme.js" | absURL }}"></script>
+    <script type="text/javascript" src="{{ "theme.js" | relURL }}"></script>
 
     {{ if isset .Site.Params "js_modules" }}
     {{ range .Site.Params.js_modules }}
-    <script src="{{ . | absURL }}" type="application/javascript"></script>
+    <script src="{{ . | relURL }}" type="application/javascript"></script>
     {{ end }}
     {{ end }}
 
