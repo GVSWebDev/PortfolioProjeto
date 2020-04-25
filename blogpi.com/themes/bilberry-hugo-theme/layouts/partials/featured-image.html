@@ -11,7 +11,7 @@
 {{ else if and (isset .Params "featuredimage") (ne .Params.featuredImage "") }}
     <div class="featured-image">
         <a href="{{ .Permalink }}">
-            <img src="{{ .Params.featuredImage | relURL }}" alt="">
+            <img src="{{ .Params.featuredImage }}" alt="">
         </a>
     </div>
 {{ end }}
