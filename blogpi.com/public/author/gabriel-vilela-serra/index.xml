@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Vilela Serra on Projeto Portfolio</title>
-    <link>localhost:1313/author/gabriel-vilela-serra/</link>
+    <link>/author/gabriel-vilela-serra/</link>
     <description>Recent content in Gabriel Vilela Serra on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 17:53:11 -0300</lastBuildDate>
     
-	<atom:link href="localhost:1313/author/gabriel-vilela-serra/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/gabriel-vilela-serra/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quem é Gabriel Vilela Serra</title>
-      <link>localhost:1313/article/quemsomos_gabriel/</link>
+      <link>/article/quemsomos_gabriel/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>localhost:1313/article/quemsomos_gabriel/</guid>
+      <guid>/article/quemsomos_gabriel/</guid>
       <description>Introduzido ao mundo dos Computadores e Jogos desde os 6 anos de idade, a computação vem sido uma grande paixão para mim desde pequeno. A curiosidade para saber como os jogos funcionavam me levaram ao caminho da programação. Em 2013 fui introduzido a linguagem Java para fazer uma modificação do melhor jogo da época, o Minecraft. Nos anos seguintes, fui explorando mais linguagens como C# para usar no Unity, que é uma engine de jogos que estava começando a se popularizar na época.</description>
     </item>
     

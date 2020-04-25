@@ -3,226 +3,226 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/article/alteracaotema/</loc>
+    <loc>/article/alteracaotema/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/article/alteracaotema/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/article/alteracaotema/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/article/</loc>
+    <loc>/article/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/article/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/tags/atualizacoes/</loc>
+    <loc>/tags/atualizacoes/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/tags/atualizacoes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/tags/atualizacoes/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/author/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/author/team-maya/</loc>
+    <loc>/author/team-maya/</loc>
     <lastmod>2020-03-29T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/author/team-maya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/author/team-maya/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/author/gabriel-vilela-serra/</loc>
+    <loc>/author/gabriel-vilela-serra/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/author/gabriel-vilela-serra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/author/gabriel-vilela-serra/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/author/joao-pedro-larini/</loc>
+    <loc>/author/joao-pedro-larini/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/author/joao-pedro-larini/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/author/joao-pedro-larini/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/tags/quem-somos/</loc>
+    <loc>/tags/quem-somos/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/tags/quem-somos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/tags/quem-somos/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/article/quemsomos_gabriel/</loc>
+    <loc>/article/quemsomos_gabriel/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/article/quemsomos_gabriel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/article/quemsomos_gabriel/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/article/quemsomos_joao/</loc>
+    <loc>/article/quemsomos_joao/</loc>
     <lastmod>2020-03-29T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/article/quemsomos_joao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/article/quemsomos_joao/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/author/heber-jose-da-silva-junior/</loc>
+    <loc>/author/heber-jose-da-silva-junior/</loc>
     <lastmod>2020-03-29T17:52:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/author/heber-jose-da-silva-junior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/author/heber-jose-da-silva-junior/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/article/quemsomos_heber/</loc>
+    <loc>/article/quemsomos_heber/</loc>
     <lastmod>2020-03-29T17:52:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/article/quemsomos_heber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/article/quemsomos_heber/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="#ZgotmplZ"
+                href="/categories/"
                 />
   </url>
   

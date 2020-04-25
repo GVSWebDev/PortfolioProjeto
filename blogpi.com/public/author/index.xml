@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Projeto Portfolio</title>
-    <link>localhost:1313/author/</link>
+    <link>/author/</link>
     <description>Recent content in Author on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
     
-	<atom:link href="localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Team Maya</title>
-      <link>localhost:1313/author/team-maya/</link>
+      <link>/author/team-maya/</link>
       <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
       
-      <guid>localhost:1313/author/team-maya/</guid>
+      <guid>/author/team-maya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gabriel Vilela Serra</title>
-      <link>localhost:1313/author/gabriel-vilela-serra/</link>
+      <link>/author/gabriel-vilela-serra/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>localhost:1313/author/gabriel-vilela-serra/</guid>
+      <guid>/author/gabriel-vilela-serra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joao Pedro Larini</title>
-      <link>localhost:1313/author/joao-pedro-larini/</link>
+      <link>/author/joao-pedro-larini/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
-      <guid>localhost:1313/author/joao-pedro-larini/</guid>
+      <guid>/author/joao-pedro-larini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heber Jose da Silva Junior</title>
-      <link>localhost:1313/author/heber-jose-da-silva-junior/</link>
+      <link>/author/heber-jose-da-silva-junior/</link>
       <pubDate>Sun, 29 Mar 2020 17:52:11 -0300</pubDate>
       
-      <guid>localhost:1313/author/heber-jose-da-silva-junior/</guid>
+      <guid>/author/heber-jose-da-silva-junior/</guid>
       <description></description>
     </item>
     
