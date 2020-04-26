@@ -5,10 +5,19 @@
     <link>/author/team-maya/</link>
     <description>Recent content in Team Maya on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
     
 	<atom:link href="/author/team-maya/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deixando o Blog Acessível na Web</title>
+      <link>/gallery/blog-acessivel-web/</link>
+      <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
+      
+      <guid>/gallery/blog-acessivel-web/</guid>
+      <description>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2, do AWS, rodando a distribuição Amazon Linux 2. Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update) e instalamos o serviço Apache para criar o Host do blog na Web, para isso foi necessário compilar o blog. A fim de ralizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog.</description>
+    </item>
     
     <item>
       <title>Alterações do Tema</title>
