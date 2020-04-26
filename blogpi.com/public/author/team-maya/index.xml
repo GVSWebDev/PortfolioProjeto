@@ -16,7 +16,8 @@
       <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
       
       <guid>/gallery/blog-acessivel-web/</guid>
-      <description>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2, do AWS, rodando a distribuição Amazon Linux 2. Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update) e instalamos o serviço Apache para criar o Host do blog na Web, para isso foi necessário compilar o blog. A fim de ralizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog.</description>
+      <description>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2 (Imagem 1), do AWS, rodando a distribuição Amazon Linux 2 (Imagem 2 e 3). Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update) (Imagem 4) e instalamos o serviço Apache para criar o Host do blog na Web (Imagem 5), para isso foi necessário compilar o blog.
+A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog (Imagem 6).</description>
     </item>
     
     <item>
