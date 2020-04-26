@@ -35,11 +35,31 @@
   <url>
     <loc>/gallery/blog-acessivel-web/</loc>
     <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/blog-acessivel-web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/blog-acessivel-web/"
+                />
   </url>
   
   <url>
     <loc>/gallery/</loc>
     <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/"
+                />
   </url>
   
   <url>

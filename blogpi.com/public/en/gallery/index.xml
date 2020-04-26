@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team Maya on Portfolio Project</title>
-    <link>/en/author/team-maya/</link>
-    <description>Recent content in Team Maya on Portfolio Project</description>
+    <title>Galleries on Portfolio Project</title>
+    <link>/en/gallery/</link>
+    <description>Recent content in Galleries on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
     
-	<atom:link href="/en/author/team-maya/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>/en/gallery/blog-acessivel-web/</guid>
       <description>Initially, we registered for access to the AWS website. We started a virtual machine using EC2 (Image 1), from AWS, running the Amazon Linux 2 distribution (Images 2 and 3). We performed the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update) (Image 4) and installed the Apache service to create the blog Host on the Web (Image 5), for this it was necessary to compile the blog.</description>
-    </item>
-    
-    <item>
-      <title>Theme Changes</title>
-      <link>/en/article/alteracaotema/</link>
-      <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
-      
-      <guid>/en/article/alteracaotema/</guid>
-      <description>We modified the Bilburry theme to better accommodate our project, the theme itself doesn’t have the buttons on the main tab, we implemented them using HTML and SASS to make the types of post we create more organized, we also changed the options from standard languages ​​that are English and German to Portuguese (standard) and English. When the English option is clicked, the site loads an English version of the posts.</description>
     </item>
     
   </channel>

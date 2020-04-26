@@ -5,10 +5,19 @@
     <link>/en/tags/atualizacoes/</link>
     <description>Recent content in Atualizacoes on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2020 20:25:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
     
 	<atom:link href="/en/tags/atualizacoes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making the Blog Accessible on the Web</title>
+      <link>/en/gallery/blog-acessivel-web/</link>
+      <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
+      
+      <guid>/en/gallery/blog-acessivel-web/</guid>
+      <description>Initially, we registered for access to the AWS website. We started a virtual machine using EC2 (Image 1), from AWS, running the Amazon Linux 2 distribution (Images 2 and 3). We performed the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update) (Image 4) and installed the Apache service to create the blog Host on the Web (Image 5), for this it was necessary to compile the blog.</description>
+    </item>
     
     <item>
       <title>Theme Changes</title>

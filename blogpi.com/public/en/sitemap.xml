@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/article/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/article/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/atualizacoes/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -34,7 +19,7 @@
   
   <url>
     <loc>/en/author/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -48,8 +33,38 @@
   </url>
   
   <url>
+    <loc>/en/gallery/</loc>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/gallery/blog-acessivel-web/</loc>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/blog-acessivel-web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/blog-acessivel-web/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -64,7 +79,7 @@
   
   <url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -79,7 +94,7 @@
   
   <url>
     <loc>/en/author/team-maya/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -89,6 +104,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/team-maya/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/article/</loc>
+    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/"
                 />
   </url>
   
