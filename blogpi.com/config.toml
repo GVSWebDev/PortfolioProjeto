@@ -12,7 +12,7 @@ DefaultContentLanguage = "pt-br"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = "bilberry-hugo-theme"
+disqusShortname = "teammaya"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
@@ -27,8 +27,8 @@ disqusShortname = "bilberry-hugo-theme"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
+  author = "Team Maya"
+  description = "Portfolio para o Team Maya"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
@@ -38,7 +38,7 @@ disqusShortname = "bilberry-hugo-theme"
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
+  algolia_search    = false
   algolia_appId     = "Y2C4RWMPXW"
   algolia_apiKey    = "50ea7f8c41c0ad233926e0be2b769ed1"
   algolia_indexName = "default-content"
@@ -106,14 +106,13 @@ disqusShortname = "bilberry-hugo-theme"
     showFooterLanguageChooser = true
 
     # social media profile urls for the footer links
-    showSocialMedia = false
+    showSocialMedia = true
 
     # define your links with FontAwesome 5 (only free icons are supported)
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://github.com/GVSWebDev/PortfolioProjeto", icon = "fab fa-github" },
     ]
 
     # credits line configuration

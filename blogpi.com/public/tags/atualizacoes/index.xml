@@ -5,10 +5,19 @@
     <link>/tags/atualizacoes/</link>
     <description>Recent content in Atualizacoes on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 20:25:43 -0300</lastBuildDate>
     
 	<atom:link href="/tags/atualizacoes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Registrando e Configurando o Domínio</title>
+      <link>/article/adicionandodomain/</link>
+      <pubDate>Sat, 30 May 2020 20:25:43 -0300</pubDate>
+      
+      <guid>/article/adicionandodomain/</guid>
+      <description>A parte mais desafiadora de registrar um domínio é a escolha do nome &amp;hellip; Tantas possibilidades criativas, combinações interessantes, e engraçadas também. Contemplamos adquirir nomes como ronaldinho.soccer, maya.team, teammata.wtf, entre muitos outros. No final, escolhemos o teammaya.codes mesmo, que combina com o intuito do site, e soa bem até. Um dos principais motivos que levaram a essa escolha, foi o fato que eu consegui o pacote de Estudante do GitHub, que me deu um desconto de 100% no primeiro domínio da provedora Name.</description>
+    </item>
     
     <item>
       <title>Deixando o Blog Acessível na Web</title>

@@ -8,14 +8,14 @@
     <meta name="description" content="Portfolio para o Team Maya">
     <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
     <meta name="generator" content="Hugo 0.68.3" />
-    <title> Quem é Heber Junior? | Projeto Portfolio</title>
-    <meta name="description" content="Quem é Heber Junior? - Portfolio para o Team Maya">
-    <meta itemprop="name" content="Quem é Heber Junior?">
-    <meta itemprop="description" content="Quem é Heber Junior? - Portfolio para o Team Maya">
-    <meta property="og:title" content="Quem é Heber Junior?">
-    <meta property="og:description" content="Quem é Heber Junior? - Portfolio para o Team Maya">
-    <meta property="og:image" content="https://media.discordapp.net/attachments/555568413674700800/693950564836442214/teste1.png?width=957&amp;height=386">
-    <meta property="og:url" content="/article/quemsomos_heber/">
+    <title> Registrando e Configurando o Domínio | Projeto Portfolio</title>
+    <meta name="description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
+    <meta itemprop="name" content="Registrando e Configurando o Domínio">
+    <meta itemprop="description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
+    <meta property="og:title" content="Registrando e Configurando o Domínio">
+    <meta property="og:description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
+    <meta property="og:image" content="https://www.gravatar.com/avatar/88188b6cc451928eba90e8400bc68086?size=200">
+    <meta property="og:url" content="/article/adicionandodomain/">
     <meta property="og:site_name" content="Projeto Portfolio">
     <meta property="og:type" content="article">
 
@@ -23,8 +23,8 @@
 
 
     
-    <link href="/article/quemsomos_heber/" rel="alternate" type="application/rss+xml" title="Projeto Portfolio" />
-    <link href="/article/quemsomos_heber/" rel="feed" type="application/rss+xml" title="Projeto Portfolio" />
+    <link href="/article/adicionandodomain/" rel="alternate" type="application/rss+xml" title="Projeto Portfolio" />
+    <link href="/article/adicionandodomain/" rel="feed" type="application/rss+xml" title="Projeto Portfolio" />
     
 
     
@@ -132,25 +132,19 @@
      
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="/article/quemsomos_heber/">
+            <a class="bubble" href="/article/adicionandodomain/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
 <article class="default article">
     
-    <div class="featured-image">
-        <a href="/article/quemsomos_heber/">
-            <img src="https://media.discordapp.net/attachments/555568413674700800/693950564836442214/teste1.png?width=957&amp;height=386" alt="">
-        </a>
-    </div>
-
 
     <div class="content">
-    <h1 class="article-title"><a href="/article/quemsomos_heber/">Quem é Heber Junior?</a></h1>
+    <h1 class="article-title"><a href="/article/adicionandodomain/">Registrando e Configurando o Domínio</a></h1>
     <div class="meta">
         
         
-        <span class="date moment">2020-03-29</span>
+        <span class="date moment">2020-05-30</span>
         
         
 
@@ -161,16 +155,16 @@
         
         <span class="author">
             
-            <a href="/author/heber-jose-da-silva-junior/">Heber Jose da Silva Junior</a>
+            <a href="/author/gabriel-vilela-serra/">Gabriel Vilela Serra</a>
             
         </span>
         
     </div>
 
     
-    <p>Atualmente cursando Ciências da computação, costumo pesquisar sobre o assunto desde menor, a fim de facilitar as tarefas do dia à dia. 
-Sou interessado na área de segurança da informação, criptografia, estrutura social e malwares, acredito que a área atualmente é pouco conhecida e merece maior atenção, dada a importância que a manipulação de informações tem sobre as demais áreas.
-Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar o máximo de informações à comunidade de TI.</p>
+    <p>A parte mais desafiadora de registrar um domínio é a escolha do nome &hellip; Tantas possibilidades criativas, combinações interessantes, e engraçadas também. Contemplamos adquirir nomes como ronaldinho.soccer, maya.team, teammata.wtf, entre muitos outros. No final, escolhemos o teammaya.codes mesmo, que combina com o intuito do site, e soa bem até. Um dos principais motivos que levaram a essa escolha, foi o fato que eu consegui o pacote de Estudante do GitHub, que me deu um desconto de 100% no primeiro domínio da provedora Name.com. Uma boa iniciativa do GitHub!</p>
+<p>Após &ldquo;comprar&rdquo; o domínio, tive que descobrir como configurava o DNS. De início, eu só fui passando pelas funcionalidades oferecidas pela Dashboard do Name.com, até que cheguei em uma denomeada de &ldquo;URL Forwarding&rdquo;, que servia para redirecionar o dominio para outra URL. A primeira coisa que fiz foi fazer com que o dominio redirecionasse para o IP do nosso site. Mas não era tão simples assim aparentemente, pois o dominio ainda retornada um erro dizendo que não era possível resolver o Hostname. Continuei procurando, e achei o painel de configuração dos Registros de DNS. Alguns provedores de dominios já configuram &ldquo;de fábrica&rdquo;, mas não tinha nada pré-configurado lá. O bom é que o próprio site tinha uma certa documentação que especificava o que cada coisa fazia de forma bem simples de entender. Lá, aprendi que pecisava fazer Registros de DNS tipo A, para conectar o domínio ao nosso site. Fiz 2 registros, um para todos os subdominios, e outro pra uso geral, todos apontando ao IP do nosso site.</p>
+<p>Também já aproveitei e fui atrás de configurar os registros MX para redirecionamento dos emails, como especificado na atividade. De inicio, tentei fazer algo direto com o Gmail, usando o G Suite, até descobrir que era pago. Depois, procurei uma alternativa pela Amazon. Descobri o serviço Amazon Simple Email Service (SES) que prometia fazer redirecionamento de emails. Para isso, precisava verificar que era dono do domínio adicionando um Registro TXT com um certo código que eles providenciaram. Esse processo demoraria até 72h para ser completo, então fiz o que foi pedido e deixei por assim mesmo. Mas curioso, ainda continuei pesquisando sobre as funcionalidades do Dashboard do Name.com. Então, achei um serviço de redirecionamento de emails deles mesmos! Bastava colocar o endereço de email ao qual seriam redirecionados para. Em questão de minutos, o site já estava funcionando com o domínio correto, e os emails já estavam sendo redirecionados com sucesso para o email de teste no qual eu configurei previamente. Sucesso!</p>
 
     
 </div>
@@ -185,7 +179,7 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
             <div class="links">
                 
                 
-                <a href="/tags/quem-somos/">Quem somos</a>
+                <a href="/tags/atualizacoes/">Atualizacoes</a>
                 
                 
             </div>
@@ -197,7 +191,7 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
         <i class="fa fa-language"></i>
         <div class="links">
             
-                <a href="/en/article/quemsomos_heber/">en</a>
+                <a href="/en/article/adicionandodomain/">en</a>
             
         </div>
     </div>

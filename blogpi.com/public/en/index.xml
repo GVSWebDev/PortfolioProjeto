@@ -4,10 +4,19 @@
     <link>/en/</link>
     <description>Recent content on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 20:25:43 -0300</lastBuildDate>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Articles</title>
+      <link>/en/article/</link>
+      <pubDate>Sat, 30 May 2020 20:25:43 -0300</pubDate>
+      
+      <guid>/en/article/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Galleries</title>
@@ -15,15 +24,6 @@
       <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
       
       <guid>/en/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>/en/article/</link>
-      <pubDate>Sun, 29 Mar 2020 20:25:43 -0300</pubDate>
-      
-      <guid>/en/article/</guid>
       <description></description>
     </item>
     

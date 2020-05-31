@@ -4,16 +4,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Lednerb">
-    <meta name="description" content="Bilberry Premium Theme for Hugo.">
+    <meta name="author" content="Team Maya">
+    <meta name="description" content="Portfolio para o Team Maya">
     <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
-    <meta name="generator" content="Hugo 0.66.0" />
+    <meta name="generator" content="Hugo 0.68.3" />
     <title> Articles | Projeto Portfolio</title>
-    <meta name="description" content="Articles - Bilberry Premium Theme for Hugo.">
+    <meta name="description" content="Articles - Portfolio para o Team Maya">
     <meta itemprop="name" content="Articles">
-    <meta itemprop="description" content="Articles - Bilberry Premium Theme for Hugo.">
+    <meta itemprop="description" content="Articles - Portfolio para o Team Maya">
     <meta property="og:title" content="Articles">
-    <meta property="og:description" content="Articles - Bilberry Premium Theme for Hugo.">
+    <meta property="og:description" content="Articles - Portfolio para o Team Maya">
     <meta property="og:image" content="https://www.gravatar.com/avatar/88188b6cc451928eba90e8400bc68086?size=200">
     <meta property="og:url" content="/article/">
     <meta property="og:site_name" content="Projeto Portfolio"><meta property="og:type" content="website">
@@ -62,11 +62,6 @@
                 
         </ul>
 
-        
-        <div id="search-box" class="search">
-            <i class="fas fa-search"></i>
-            <input id="search" type="text" placeholder="Pesquisar ...">
-        </div>
         
     </div>
 </nav>
@@ -134,6 +129,79 @@
     <div class="main container">
         
     
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="/article/adicionandodomain/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title"><a href="/article/adicionandodomain/">Registrando e Configurando o Domínio</a></h1>
+    <div class="meta">
+        
+        
+        <span class="date moment">2020-05-30</span>
+        
+        
+
+        
+
+        
+
+        
+        <span class="author">
+            
+            <a href="/author/gabriel-vilela-serra/">Gabriel Vilela Serra</a>
+            
+        </span>
+        
+    </div>
+
+    
+    <p>A parte mais desafiadora de registrar um domínio é a escolha do nome &hellip; Tantas possibilidades criativas, combinações interessantes, e engraçadas também. Contemplamos adquirir nomes como ronaldinho.soccer, maya.team, teammata.wtf, entre muitos outros. No final, escolhemos o teammaya.codes mesmo, que combina com o intuito do site, e soa bem até. Um dos principais motivos que levaram a essa escolha, foi o fato que eu consegui o pacote de Estudante do GitHub, que me deu um desconto de 100% no primeiro domínio da provedora Name.com. Uma boa iniciativa do GitHub!</p>
+<p>Após &ldquo;comprar&rdquo; o domínio, tive que descobrir como configurava o DNS. De início, eu só fui passando pelas funcionalidades oferecidas pela Dashboard do Name.com, até que cheguei em uma denomeada de &ldquo;URL Forwarding&rdquo;, que servia para redirecionar o dominio para outra URL. A primeira coisa que fiz foi fazer com que o dominio redirecionasse para o IP do nosso site. Mas não era tão simples assim aparentemente, pois o dominio ainda retornada um erro dizendo que não era possível resolver o Hostname. Continuei procurando, e achei o painel de configuração dos Registros de DNS. Alguns provedores de dominios já configuram &ldquo;de fábrica&rdquo;, mas não tinha nada pré-configurado lá. O bom é que o próprio site tinha uma certa documentação que especificava o que cada coisa fazia de forma bem simples de entender. Lá, aprendi que pecisava fazer Registros de DNS tipo A, para conectar o domínio ao nosso site. Fiz 2 registros, um para todos os subdominios, e outro pra uso geral, todos apontando ao IP do nosso site.</p>
+<p>Também já aproveitei e fui atrás de configurar os registros MX para redirecionamento dos emails, como especificado na atividade. De inicio, tentei fazer algo direto com o Gmail, usando o G Suite, até descobrir que era pago. Depois, procurei uma alternativa pela Amazon. Descobri o serviço Amazon Simple Email Service (SES) que prometia fazer redirecionamento de emails. Para isso, precisava verificar que era dono do domínio adicionando um Registro TXT com um certo código que eles providenciaram. Esse processo demoraria até 72h para ser completo, então fiz o que foi pedido e deixei por assim mesmo. Mas curioso, ainda continuei pesquisando sobre as funcionalidades do Dashboard do Name.com. Então, achei um serviço de redirecionamento de emails deles mesmos! Bastava colocar o endereço de email ao qual seriam redirecionados para. Em questão de minutos, o site já estava funcionando com o domínio correto, e os emails já estavam sendo redirecionados com sucesso para o email de teste no qual eu configurei previamente. Sucesso!</p>
+
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                
+                <a href="/tags/atualizacoes/">Atualizacoes</a>
+                
+                
+            </div>
+        </div>
+    
+
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="/en/article/adicionandodomain/">en</a>
+            
+        </div>
+    </div>
+    
+</div>
+
+</article>
+
+            
+        </div>
     
         <div class="article-wrapper u-cf">
             
@@ -471,6 +539,10 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
             <ul>
                 
                 <li>
+                    <a href="/article/adicionandodomain/">Registrando e Configurando o Domínio</a>
+                </li>
+                
+                <li>
                     <a href="/gallery/blog-acessivel-web/">Deixando o Blog Acessível na Web</a>
                 </li>
                 
@@ -497,6 +569,14 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
         
 
         <div class="right">
+            
+            <div class="external-profiles">
+                <strong>Redes sociais</strong>
+
+                
+                <a href="https://github.com/GVSWebDev/PortfolioProjeto" target="_blank"><i class="fab fa-github"></i></a>
+                
+            </div>
             
 
             <div class="languages">
@@ -548,18 +628,6 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
     
     
     
-
-    
-    <div id="activate-algolia-search" class="hidden">
-  <input type="hidden" id="algolia-search-appId" value="Y2C4RWMPXW">
-  <input type="hidden" id="algolia-search-apiKey" value="50ea7f8c41c0ad233926e0be2b769ed1">
-  <input type="hidden" id="algolia-search-indexName" value="default-content">
-  <input type="hidden" id="algolia-search-noSearchResults" value="Nenhum resultado.">
-
-  
-  <input type="hidden" id="algolia-search-currentLanguageOnly">
-  
-</div>
 
     
 

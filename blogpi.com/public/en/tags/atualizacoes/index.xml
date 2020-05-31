@@ -5,10 +5,19 @@
     <link>/en/tags/atualizacoes/</link>
     <description>Recent content in Atualizacoes on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Apr 2020 16:23:19 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 20:25:43 -0300</lastBuildDate>
     
 	<atom:link href="/en/tags/atualizacoes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Registrando e Configurando o Domínio</title>
+      <link>/en/article/adicionandodomain/</link>
+      <pubDate>Sat, 30 May 2020 20:25:43 -0300</pubDate>
+      
+      <guid>/en/article/adicionandodomain/</guid>
+      <description>The most challenging part of registering a domain is choosing the name &amp;hellip; So many creative possibilities, interesting combinations, and funny ones too. We contemplate acquiring names like ronaldinho.soccer, maya.team, teammata.wtf, among many others. In the end, we chose teammaya.codes, which matches the purpose of the site, and even sounds good. One of the main reasons that led to this choice was the fact that I got the Student package from GitHub, which gave me a 100% discount on the first domain from the provider Name.</description>
+    </item>
     
     <item>
       <title>Making the Blog Accessible on the Web</title>

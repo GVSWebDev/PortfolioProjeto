@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/article/</loc>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/atualizacoes/</loc>
-    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>/author/</loc>
-    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +44,66 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/gabriel-vilela-serra/</loc>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gabriel-vilela-serra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/gabriel-vilela-serra/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/article/adicionandodomain/</loc>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/adicionandodomain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/adicionandodomain/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/"
                 />
   </url>
   
@@ -63,36 +138,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/team-maya/</loc>
     <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
@@ -119,36 +164,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/article/alteracaotema/"
-                />
-  </url>
-  
-  <url>
-    <loc>/article/</loc>
-    <lastmod>2020-03-29T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/article/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/gabriel-vilela-serra/</loc>
-    <lastmod>2020-03-29T17:53:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/gabriel-vilela-serra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/author/gabriel-vilela-serra/"
                 />
   </url>
   

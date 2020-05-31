@@ -8,22 +8,23 @@
     <meta name="description" content="Portfolio para o Team Maya">
     <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
     <meta name="generator" content="Hugo 0.68.3" />
-    <title> Joao Pedro Larini | Portfolio Project</title>
-    <meta name="description" content="Joao Pedro Larini - Portfolio para o Team Maya">
-    <meta itemprop="name" content="Joao Pedro Larini">
-    <meta itemprop="description" content="Joao Pedro Larini - Portfolio para o Team Maya">
-    <meta property="og:title" content="Joao Pedro Larini">
-    <meta property="og:description" content="Joao Pedro Larini - Portfolio para o Team Maya">
+    <title> Registrando e Configurando o Domínio | Portfolio Project</title>
+    <meta name="description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
+    <meta itemprop="name" content="Registrando e Configurando o Domínio">
+    <meta itemprop="description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
+    <meta property="og:title" content="Registrando e Configurando o Domínio">
+    <meta property="og:description" content="Registrando e Configurando o Domínio - Portfolio para o Team Maya">
     <meta property="og:image" content="https://www.gravatar.com/avatar/88188b6cc451928eba90e8400bc68086?size=200">
-    <meta property="og:url" content="/en/author/joao-pedro-larini/">
-    <meta property="og:site_name" content="Portfolio Project"><meta property="og:type" content="website">
+    <meta property="og:url" content="/en/article/adicionandodomain/">
+    <meta property="og:site_name" content="Portfolio Project">
+    <meta property="og:type" content="article">
 
     
 
 
     
-    <link href="/en/author/joao-pedro-larini/" rel="alternate" type="application/rss+xml" title="Portfolio Project" />
-    <link href="/en/author/joao-pedro-larini/" rel="feed" type="application/rss+xml" title="Portfolio Project" />
+    <link href="/en/article/adicionandodomain/" rel="alternate" type="application/rss+xml" title="Portfolio Project" />
+    <link href="/en/article/adicionandodomain/" rel="feed" type="application/rss+xml" title="Portfolio Project" />
     
 
     
@@ -128,29 +129,22 @@
 
     <div class="main container">
         
-    
-    
-        <div class="article-wrapper u-cf">
-            
-                <a class="bubble" href="/en/article/quemsomos_joao/">
+     
+    <div class="article-wrapper u-cf single">
+        
+            <a class="bubble" href="/en/article/adicionandodomain/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
 <article class="default article">
     
-    <div class="featured-image">
-        <a href="/en/article/quemsomos_joao/">
-            <img src="https://media.discordapp.net/attachments/555568413674700800/693953304627249152/geii.png?width=957&amp;height=361" alt="">
-        </a>
-    </div>
-
 
     <div class="content">
-    <h1 class="article-title"><a href="/en/article/quemsomos_joao/">Who is João Pedro Larini</a></h1>
+    <h1 class="article-title"><a href="/en/article/adicionandodomain/">Registrando e Configurando o Domínio</a></h1>
     <div class="meta">
         
         
-        <span class="date moment">2020-03-29</span>
+        <span class="date moment">2020-05-30</span>
         
         
 
@@ -161,18 +155,16 @@
         
         <span class="author">
             
-            <a href="/en/author/joao-pedro-larini/">Joao Pedro Larini</a>
+            <a href="/en/author/gabriel-vilela-serra/">Gabriel Vilela Serra</a>
             
         </span>
         
     </div>
 
     
-    <p>Interested in computing from an early age, I always seek to update myself on new types of technology, both for professional use
-how much staff. I have complete courses in the area of servers, technical maintenance and hardware theory. Currently studying science
-computing. I participated in several lectures discussing innovations proposed by companies like Amazon, Sotran, Google and others.
-I intend to professionalize in the area of servers and database and provide services reported to the area. I am a proactive person who always
-seeks to learn more about subjects that can provide me with new methods to accomplish other tasks.</p>
+    <p>The most challenging part of registering a domain is choosing the name &hellip; So many creative possibilities, interesting combinations, and funny ones too. We contemplate acquiring names like ronaldinho.soccer, maya.team, teammata.wtf, among many others. In the end, we chose teammaya.codes, which matches the purpose of the site, and even sounds good. One of the main reasons that led to this choice was the fact that I got the Student package from GitHub, which gave me a 100% discount on the first domain from the provider Name.com. A good initiative from GitHub!</p>
+<p>After &ldquo;buying&rdquo; the domain, I had to find out how to configure DNS. At first, I just went through the features offered by the Name.com Dashboard, until I arrived at one called &ldquo;URL Forwarding&rdquo;, which served to redirect the domain to another URL. The first thing I did was make the domain redirect to the IP of our website. But it was not that simple apparently, because the domain still returned an error saying that it was not possible to resolve the Hostname. I kept looking, and found the DNS Records configuration panel. Some domain providers already set up &ldquo;factory&rdquo;, but there was nothing pre-configured there. The good thing is that the site itself had a certain documentation that specified what each thing did in a very simple way to understand. There, I learned that I needed to make DNS records type A, to connect the domain to our website. I made 2 records, one for all subdomains, and another for general use, all pointing to the IP of our site.</p>
+<p>I also took advantage and went to configure the MX records for redirecting emails, as specified in the activity. At first, I tried to do something straight with Gmail, using G Suite, until I found out it was paid. Then I looked for an alternative for Amazon. I discovered the Amazon Simple Email Service (SES) service that promised to redirect emails. For that, I needed to verify that I owned the domain by adding a TXT Record with a certain code that they provided. This process would take up to 72 hours to complete, so I did what was asked and left it at that. But curious, I still continued to research about the functionality of the Name.com Dashboard. So, I found an email redirection service for themselves! It was enough to put the email address to which they would be redirected to. In a matter of minutes, the website was already working with the correct domain, and emails were already being successfully redirected to the test email I previously configured. Success!</p>
 
     
 </div>
@@ -187,7 +179,7 @@ seeks to learn more about subjects that can provide me with new methods to accom
             <div class="links">
                 
                 
-                <a href="/en/tags/quem-somos/">Quem somos</a>
+                <a href="/en/tags/atualizacoes/">Atualizacoes</a>
                 
                 
             </div>
@@ -199,7 +191,7 @@ seeks to learn more about subjects that can provide me with new methods to accom
         <i class="fa fa-language"></i>
         <div class="links">
             
-                <a href="/article/quemsomos_joao/">pt-br</a>
+                <a href="/article/adicionandodomain/">pt-br</a>
             
         </div>
     </div>
@@ -208,18 +200,33 @@ seeks to learn more about subjects that can provide me with new methods to accom
 
 </article>
 
-            
-        </div>
-    
-
-    
-    <div class="paginator">
-        
-
         
     </div>
 
+    
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "teammaya" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
 
+     
 
     </div>
 
@@ -301,8 +308,7 @@ seeks to learn more about subjects that can provide me with new methods to accom
                 
                 by Lednerb, modified by Team Maya
             </a>
-            -
-            <a href="/en/author/joao-pedro-larini/index.xml">RSS</a>
+            
         </div>
         <div class="author">
             <a href="https://github.com/Lednerb/bilberry-hugo-theme"
