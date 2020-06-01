@@ -19,5 +19,15 @@
       <description>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.</description>
     </item>
     
+    <item>
+      <title>Algorithms Animator</title>
+      <link>/en/video/animadoralgoritmos/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/en/video/animadoralgoritmos/</guid>
+      <description>&lt;p&gt;A very interesting project that I worked with João was the project of the algorithm animator, which we did in the discipline Computer Laboratory II of professor Ricardo Inacio.&lt;/p&gt;
+&lt;p&gt;In the video above, I demonstrate how this program works, and also mention the difficulties encountered along the way.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
