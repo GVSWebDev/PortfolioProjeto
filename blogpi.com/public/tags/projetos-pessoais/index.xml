@@ -11,12 +11,22 @@
     
     
     <item>
-      <title>Projeto pessoal João Larini</title>
+      <title>Lampada Gamer</title>
       <link>/gallery/projeto-pessoal-joao-larini/</link>
       <pubDate>Sun, 31 May 2020 16:23:19 -0300</pubDate>
       
       <guid>/gallery/projeto-pessoal-joao-larini/</guid>
       <description>Em 2017 comecei um curso para aprender mais sobre o hardware do computador e servidores e seus usos/configuração. No final do curso precisei fazer um trabalho para conclusão utilizando todos os assuntos ensinados. Minha decisão foi fazer uma lâmpada/abajur ser ligado remotamente pelo celular ou computador. Para isso utilizei um micro computador chamado Raspberry PI [Imagem 1], ele possui vários barramentos idênticos ao de um computador normal (USB, Ethernet, etc) e utiliza um micro SD como armazenamento.</description>
+    </item>
+    
+    <item>
+      <title>Animador de Algoritmos</title>
+      <link>/video/animadoralgoritmos/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/video/animadoralgoritmos/</guid>
+      <description>&lt;p&gt;Um projeto muito interessante que trabalhei com o João foi o projeto do animador de algoritmos, que fizemos na disciplina Laboratório de Computação II do professor Ricardo Inacio.&lt;/p&gt;
+&lt;p&gt;No vídeo acima, demonstro o funcionamento desse programa, e também cito as dificuldades encontradas no caminho.&lt;/p&gt;</description>
     </item>
     
   </channel>

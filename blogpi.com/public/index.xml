@@ -27,5 +27,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Videos</title>
+      <link>/video/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/video/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

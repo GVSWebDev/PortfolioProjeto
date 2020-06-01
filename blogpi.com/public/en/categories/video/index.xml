@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Portfolio Project</title>
+    <link>/en/categories/video/</link>
+    <description>Recent content in Video on Portfolio Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 May 2020 16:23:40 +0100</lastBuildDate>
+    
+	<atom:link href="/en/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms Animator</title>
+      <link>/en/video/animadoralgoritmos/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/en/video/animadoralgoritmos/</guid>
+      <description>&lt;p&gt;A very interesting project that I worked with João was the project of the algorithm animator, which we did in the discipline Computer Laboratory II of professor Ricardo Inacio.&lt;/p&gt;
+&lt;p&gt;In the video above, I demonstrate how this program works, and also mention the difficulties encountered along the way.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

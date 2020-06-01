@@ -5,9 +5,19 @@
     <link>/en/categories/</link>
     <description>Recent content in Categories on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 May 2020 16:23:40 +0100</lastBuildDate>
     
 	<atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video</title>
+      <link>/en/categories/video/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/en/categories/video/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

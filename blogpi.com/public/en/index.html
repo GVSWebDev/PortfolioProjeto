@@ -161,7 +161,7 @@
     
 
     <div class="content">
-    <h1 class="article-title"><a href="/en/gallery/projeto-pessoal-joao-larini/">Personal project João Larini</a></h1>
+    <h1 class="article-title"><a href="/en/gallery/projeto-pessoal-joao-larini/">Gamer Lamp</a></h1>
     <div class="meta">
         
         
@@ -183,11 +183,24 @@
     </div>
 
     
-    In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.
+    <p>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a
+conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer.
+For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet,
+etc.) and uses a micro SD as storage. To set it up initially, I downloaded the Raspbian system iso, a variation of the Debian distribution
+made especially for the Raspberry PI, as the processing power of the micro computer is relatively low (700MHz processor and 512MB of RAM)
+this distro is lighter in order to run more easily on its limited hardware. Using the Rufus program [Image 2] to record the iso on the micro SD and
+make it &ldquo;bootable&rdquo;. After that I started to theorize the physical part of the project, the Raspberry PI has pins (same as the pins on the motherboard for
+configuration of the computer&rsquo;s front panel) for power output, to be able to turn the lamp on or off I used a relay [Image 3] connected to the
+pins 5 Volts and Ground, the relay will work as a switch (just like the ones used at home to turn on the lights), a wire will come out of the socket, will be intercepted
+by the relay that will let the current pass when activated, but instead of being physically activated (press the switch with your hand to turn on the light)
+it lets the current pass or does not receive the current from the raspberry pins [Image 4]. Next step is to configure the activation of the Raspberry pins,
+by default the pins do not provide power, they are in state 0, to change their state to 1 (activated) I programmed some python scripts that change the pin status, from that part the lights are already on / off when the scripts are executed, a script changes the pin state to 1, making the relay
+be activated and let the current flow from the socket to the lamp and turning on the light. The other script leaves the pin status at 0 to reverse the process and
+turn off the lights. From there I started working on the remote part, installed the Apache application on the raspberry that hosts web pages, and programmed a page
+PHP with two buttons, one of the buttons will execute the script to turn on the lamp and the other to turn off. I used a USB network adapter to connect the
+Raspberry to my local network, done that just be on the same network as him with another device and enter its internal IP address (192.168.0.X) that
+Apache does the service of showing the page with the buttons, when clicking on the buttons the scripts are executed and the lamp turns on and off normally.</p>
 
-    
-    <a href="/en/gallery/projeto-pessoal-joao-larini/" class="more">Continue reading</a>
-    
     
 </div>
 
@@ -290,6 +303,99 @@
         <div class="links">
             
                 <a href="/article/adicionandodomain/">pt-br</a>
+            
+        </div>
+    </div>
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        
+    <div class="article-wrapper u-cf">
+        
+            <a class="bubble" href="/en/video/animadoralgoritmos/">
+    <i class="fas fa-fw fa-video"></i>
+</a>
+
+<article class="video">
+    
+
+
+    
+    <div class="responsive-video youtube">
+        <iframe src="https://www.youtube-nocookie.com/embed/2VLeb5dOCfg?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    
+    
+
+    <div class="content">
+    <h1 class="article-title"><a href="/en/video/animadoralgoritmos/">Algorithms Animator</a></h1>
+    <div class="meta">
+        
+        
+        <span class="date moment">2020-05-30</span>
+        
+        
+
+        
+
+        
+        <span class="categories">
+            
+                
+                <a href="/en/categories/video/">Video</a>
+                
+            
+        </span>
+        
+
+        
+        <span class="author">
+            
+            <a href="/en/author/gabriel-vilela-serra/">Gabriel Vilela Serra</a>
+            
+        </span>
+        
+    </div>
+
+    
+    <p>A very interesting project that I worked with João was the project of the algorithm animator, which we did in the discipline Computer Laboratory II of professor Ricardo Inacio.</p>
+<p>In the video above, I demonstrate how this program works, and also mention the difficulties encountered along the way.</p>
+
+    
+    <a href="/en/video/animadoralgoritmos/" class="more">Continue reading</a>
+    
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                
+                <a href="/en/tags/projetos-pessoais/">Projetos Pessoais</a>
+                
+                
+            </div>
+        </div>
+    
+
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="/video/animadoralgoritmos/">pt-br</a>
             
         </div>
     </div>
@@ -649,90 +755,11 @@ seeks to learn more about subjects that can provide me with new methods to accom
     </div>
 
     
-        
-    <div class="article-wrapper u-cf">
-        
-            <a class="bubble" href="/en/article/quemsomos_heber/">
-    <i class="fas fa-fw fa-pencil-alt"></i>
-</a>
-
-<article class="default article">
-    
-    <div class="featured-image">
-        <a href="/en/article/quemsomos_heber/">
-            <img src="https://media.discordapp.net/attachments/555568413674700800/693950564836442214/teste1.png?width=957&amp;height=386" alt="">
-        </a>
-    </div>
-
-
-    <div class="content">
-    <h1 class="article-title"><a href="/en/article/quemsomos_heber/">Who is Heber Junior?</a></h1>
-    <div class="meta">
-        
-        
-        <span class="date moment">2020-03-29</span>
-        
-        
-
-        
-
-        
-
-        
-        <span class="author">
-            
-            <a href="/en/author/heber-jose-da-silva-junior/">Heber Jose da Silva Junior</a>
-            
-        </span>
-        
-    </div>
-
-    
-    <p>Currently studying Computer Science, I usually research on the subject since I was a child, in order to facilitate everyday tasks.
-I am interested in the area of ​​information security, cryptography, social structure and malware, I believe that the area is currently little known and deserves greater attention, given the importance that information manipulation has over other areas.
-I intend to continue my studies on systems structures and be able to add as much information to the IT community.</p>
-
-    
-</div>
-
-    
-<div class="footer">
-
-
-    
-        <div class="tags">
-            <i class="fa fa-tags"></i>
-            <div class="links">
-                
-                
-                <a href="/en/tags/quem-somos/">Quem somos</a>
-                
-                
-            </div>
-        </div>
-    
-
-    
-    <div class="languages">
-        <i class="fa fa-language"></i>
-        <div class="links">
-            
-                <a href="/article/quemsomos_heber/">pt-br</a>
-            
-        </div>
-    </div>
-    
-</div>
-
-</article>
-
-        
-    </div>
-
-    
 
     
     <div class="paginator">
+        
+            <a href="/en/page/2/" class="older"><i class="fa fa-angle-double-left"></i> Older posts</a>
         
 
         
@@ -752,11 +779,15 @@ I intend to continue my studies on systems structures and be able to add as much
             <ul>
                 
                 <li>
-                    <a href="/en/gallery/projeto-pessoal-joao-larini/">Personal project João Larini</a>
+                    <a href="/en/gallery/projeto-pessoal-joao-larini/">Gamer Lamp</a>
                 </li>
                 
                 <li>
                     <a href="/en/article/adicionandodomain/">Registrando e Configurando o Domínio</a>
+                </li>
+                
+                <li>
+                    <a href="/en/video/animadoralgoritmos/">Algorithms Animator</a>
                 </li>
                 
                 <li>
@@ -775,14 +806,22 @@ I intend to continue my studies on systems structures and be able to add as much
                     <a href="/en/article/quemsomos_gabriel/">Who is Gabriel Vilela Serra</a>
                 </li>
                 
-                <li>
-                    <a href="/en/article/quemsomos_heber/">Who is Heber Junior?</a>
-                </li>
-                
             </ul>
         </div>
         
 
+        
+        <div class="categories">
+            <a href="/en/categories/"><strong>Categories</strong></a>
+            <ul>
+                
+                <li>
+                    <a href="/en/categories/video">Video
+                        (1)</a>
+                </li>
+                
+            </ul>
+        </div>
         
 
         <div class="right">
