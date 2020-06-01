@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Projeto Portfolio</title>
+    <link>/categories/video/</link>
+    <description>Recent content in Video on Projeto Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 May 2020 16:23:40 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animador de Algoritmos</title>
+      <link>/video/animadoralgoritmos/</link>
+      <pubDate>Sat, 30 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/video/animadoralgoritmos/</guid>
+      <description>&lt;p&gt;Um projeto muito interessante que trabalhei com o João foi o projeto do animador de algoritmos, que fizemos na disciplina Laboratório de Computação II do professor Ricardo Inacio.&lt;/p&gt;
+&lt;p&gt;No vídeo acima, demonstro o funcionamento desse programa, e também cito as dificuldades encontradas no caminho.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

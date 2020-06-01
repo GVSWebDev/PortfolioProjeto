@@ -1,5 +1,5 @@
 ---
-title: "Projeto pessoal João Larini"
+title: "Lampada Gamer"
 date: 2020-05-31T16:23:19-03:00
  
 

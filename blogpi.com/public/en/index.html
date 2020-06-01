@@ -161,7 +161,7 @@
     
 
     <div class="content">
-    <h1 class="article-title"><a href="/en/gallery/projeto-pessoal-joao-larini/">Personal project João Larini</a></h1>
+    <h1 class="article-title"><a href="/en/gallery/projeto-pessoal-joao-larini/">Gamer Lamp</a></h1>
     <div class="meta">
         
         
@@ -183,11 +183,24 @@
     </div>
 
     
-    In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.
+    <p>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a
+conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer.
+For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet,
+etc.) and uses a micro SD as storage. To set it up initially, I downloaded the Raspbian system iso, a variation of the Debian distribution
+made especially for the Raspberry PI, as the processing power of the micro computer is relatively low (700MHz processor and 512MB of RAM)
+this distro is lighter in order to run more easily on its limited hardware. Using the Rufus program [Image 2] to record the iso on the micro SD and
+make it &ldquo;bootable&rdquo;. After that I started to theorize the physical part of the project, the Raspberry PI has pins (same as the pins on the motherboard for
+configuration of the computer&rsquo;s front panel) for power output, to be able to turn the lamp on or off I used a relay [Image 3] connected to the
+pins 5 Volts and Ground, the relay will work as a switch (just like the ones used at home to turn on the lights), a wire will come out of the socket, will be intercepted
+by the relay that will let the current pass when activated, but instead of being physically activated (press the switch with your hand to turn on the light)
+it lets the current pass or does not receive the current from the raspberry pins [Image 4]. Next step is to configure the activation of the Raspberry pins,
+by default the pins do not provide power, they are in state 0, to change their state to 1 (activated) I programmed some python scripts that change the pin status, from that part the lights are already on / off when the scripts are executed, a script changes the pin state to 1, making the relay
+be activated and let the current flow from the socket to the lamp and turning on the light. The other script leaves the pin status at 0 to reverse the process and
+turn off the lights. From there I started working on the remote part, installed the Apache application on the raspberry that hosts web pages, and programmed a page
+PHP with two buttons, one of the buttons will execute the script to turn on the lamp and the other to turn off. I used a USB network adapter to connect the
+Raspberry to my local network, done that just be on the same network as him with another device and enter its internal IP address (192.168.0.X) that
+Apache does the service of showing the page with the buttons, when clicking on the buttons the scripts are executed and the lamp turns on and off normally.</p>
 
-    
-    <a href="/en/gallery/projeto-pessoal-joao-larini/" class="more">Continue reading</a>
-    
     
 </div>
 
@@ -259,11 +272,10 @@
     </div>
 
     
-    The most challenging part of registering a domain is choosing the name &hellip; So many creative possibilities, interesting combinations, and funny ones too. We contemplate acquiring names like ronaldinho.soccer, maya.team, teammata.wtf, among many others. In the end, we chose teammaya.codes, which matches the purpose of the site, and even sounds good. One of the main reasons that led to this choice was the fact that I got the Student package from GitHub, which gave me a 100% discount on the first domain from the provider Name.
+    <p>The most challenging part of registering a domain is choosing the name &hellip; So many creative possibilities, interesting combinations, and funny ones too. We contemplate acquiring names like ronaldinho.soccer, maya.team, teammata.wtf, among many others. In the end, we chose teammaya.codes, which matches the purpose of the site, and even sounds good. One of the main reasons that led to this choice was the fact that I got the Student package from GitHub, which gave me a 100% discount on the first domain from the provider Name.com. A good initiative from GitHub!</p>
+<p>After &ldquo;buying&rdquo; the domain, I had to find out how to configure DNS. At first, I just went through the features offered by the Name.com Dashboard, until I arrived at one called &ldquo;URL Forwarding&rdquo;, which served to redirect the domain to another URL. The first thing I did was make the domain redirect to the IP of our website. But it was not that simple apparently, because the domain still returned an error saying that it was not possible to resolve the Hostname. I kept looking, and found the DNS Records configuration panel. Some domain providers already set up &ldquo;factory&rdquo;, but there was nothing pre-configured there. The good thing is that the site itself had a certain documentation that specified what each thing did in a very simple way to understand. There, I learned that I needed to make DNS records type A, to connect the domain to our website. I made 2 records, one for all subdomains, and another for general use, all pointing to the IP of our site.</p>
+<p>I also took advantage and went to configure the MX records for redirecting emails, as specified in the activity. At first, I tried to do something straight with Gmail, using G Suite, until I found out it was paid. Then I looked for an alternative for Amazon. I discovered the Amazon Simple Email Service (SES) service that promised to redirect emails. For that, I needed to verify that I owned the domain by adding a TXT Record with a certain code that they provided. This process would take up to 72 hours to complete, so I did what was asked and left it at that. But curious, I still continued to research about the functionality of the Name.com Dashboard. So, I found an email redirection service for themselves! It was enough to put the email address to which they would be redirected to. In a matter of minutes, the website was already working with the correct domain, and emails were already being successfully redirected to the test email I previously configured. Success!</p>
 
-    
-    <a href="/en/article/adicionandodomain/" class="more">Continue reading</a>
-    
     
 </div>
 
@@ -752,7 +764,7 @@ I intend to continue my studies on systems structures and be able to add as much
             <ul>
                 
                 <li>
-                    <a href="/en/gallery/projeto-pessoal-joao-larini/">Personal project João Larini</a>
+                    <a href="/en/gallery/projeto-pessoal-joao-larini/">Gamer Lamp</a>
                 </li>
                 
                 <li>

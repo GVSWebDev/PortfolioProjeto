@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>/en/author/joao-larini/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/author/joao-larini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/joao-larini/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/gallery/projeto-pessoal-joao-larini/</loc>
     <lastmod>2020-05-31T16:23:19-03:00</lastmod>
     <xhtml:link
@@ -59,6 +44,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/gallery/projeto-pessoal-joao-larini/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/joao-larini/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/joao-larini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/joao-larini/"
                 />
   </url>
   
