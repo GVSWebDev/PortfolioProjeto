@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heber Junior on Projeto Portfolio</title>
+    <link>/author/heber-junior/</link>
+    <description>Recent content in Heber Junior on Projeto Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 May 2020 17:53:11 -0300</lastBuildDate>
+    
+	<atom:link href="/author/heber-junior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primeiro Projeto Pessoal, Heber Junior</title>
+      <link>/article/projetopessoal_heber/</link>
+      <pubDate>Sun, 31 May 2020 17:53:11 -0300</pubDate>
+      
+      <guid>/article/projetopessoal_heber/</guid>
+      <description>No meu segundo ano do curso de ciências da computação, eu e meus colegas recebemos uma tarefa de projeto indiciplinar que insistia em criar e versionar um site de portifólio - que por incrível que pareça é esse que eu estou postando esse recado hehe -, até essa altura do campeonato eu nunca tinha nem pensado em quais etapas se davam pra criar um site. sendo assim, eu e meus colegas saímos para pesquisar e seguir as dicas que os nossos orientadores nos passaram, de onde procurar e como funciona um site em si.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/article/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/"
+                />
+  </url>
+  
+  <url>
     <loc>/author/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +29,81 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/heber-junior/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/heber-junior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/heber-junior/"
+                />
+  </url>
+  
+  <url>
+    <loc>/article/projetopessoal_heber/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/projetopessoal_heber/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/projetopessoal_heber/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/projeto-pessoal/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/projeto-pessoal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/projeto-pessoal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/"
                 />
   </url>
   
@@ -63,21 +153,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/projetos-pessoais/</loc>
     <lastmod>2020-05-31T16:23:19-03:00</lastmod>
     <xhtml:link
@@ -89,36 +164,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/tags/projetos-pessoais/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/article/</loc>
-    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/article/"
                 />
   </url>
   
