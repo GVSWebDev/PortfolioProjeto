@@ -78,17 +78,17 @@
   </url>
   
   <url>
-    <loc>/en/tags/projeto-pessoal/</loc>
+    <loc>/en/tags/projetos-pessoais/</loc>
     <lastmod>2020-05-31T17:53:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/tags/projeto-pessoal/"
+                href="/tags/projetos-pessoais/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/projeto-pessoal/"
+                href="/en/tags/projetos-pessoais/"
                 />
   </url>
   
@@ -149,21 +149,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/joao-larini/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/projetos-pessoais/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/projetos-pessoais/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/projetos-pessoais/"
                 />
   </url>
   

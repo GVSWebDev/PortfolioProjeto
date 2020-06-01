@@ -184,7 +184,7 @@ Honestly I had no idea how to version a site before this task, I believe that af
             <div class="links">
                 
                 
-                <a href="/en/tags/projeto-pessoal/">Projeto pessoal</a>
+                <a href="/en/tags/projetos-pessoais/">Projetos Pessoais</a>
                 
                 
             </div>
@@ -258,11 +258,24 @@ Honestly I had no idea how to version a site before this task, I believe that af
     </div>
 
     
-    In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.
+    <p>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a
+conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer.
+For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet,
+etc.) and uses a micro SD as storage. To set it up initially, I downloaded the Raspbian system iso, a variation of the Debian distribution
+made especially for the Raspberry PI, as the processing power of the micro computer is relatively low (700MHz processor and 512MB of RAM)
+this distro is lighter in order to run more easily on its limited hardware. Using the Rufus program [Image 2] to record the iso on the micro SD and
+make it &ldquo;bootable&rdquo;. After that I started to theorize the physical part of the project, the Raspberry PI has pins (same as the pins on the motherboard for
+configuration of the computer&rsquo;s front panel) for power output, to be able to turn the lamp on or off I used a relay [Image 3] connected to the
+pins 5 Volts and Ground, the relay will work as a switch (just like the ones used at home to turn on the lights), a wire will come out of the socket, will be intercepted
+by the relay that will let the current pass when activated, but instead of being physically activated (press the switch with your hand to turn on the light)
+it lets the current pass or does not receive the current from the raspberry pins [Image 4]. Next step is to configure the activation of the Raspberry pins,
+by default the pins do not provide power, they are in state 0, to change their state to 1 (activated) I programmed some python scripts that change the pin status, from that part the lights are already on / off when the scripts are executed, a script changes the pin state to 1, making the relay
+be activated and let the current flow from the socket to the lamp and turning on the light. The other script leaves the pin status at 0 to reverse the process and
+turn off the lights. From there I started working on the remote part, installed the Apache application on the raspberry that hosts web pages, and programmed a page
+PHP with two buttons, one of the buttons will execute the script to turn on the lamp and the other to turn off. I used a USB network adapter to connect the
+Raspberry to my local network, done that just be on the same network as him with another device and enter its internal IP address (192.168.0.X) that
+Apache does the service of showing the page with the buttons, when clicking on the buttons the scripts are executed and the lamp turns on and off normally.</p>
 
-    
-    <a href="/en/gallery/projeto-pessoal-joao-larini/" class="more">Continue reading</a>
-    
     
 </div>
 
@@ -428,10 +441,10 @@ Honestly I had no idea how to version a site before this task, I believe that af
     
     <p>A very interesting project that I worked with João was the project of the algorithm animator, which we did in the discipline Computer Laboratory II of professor Ricardo Inacio.</p>
 <p>In the video above, I demonstrate how this program works, and also mention the difficulties encountered along the way.</p>
-<p>In it, we had the task of finishing writing a program that aims to show the functioning of the ordering and search algorithms that we previously learned in the same subject.</p>
-<p>We programmed the logic of the graphics system, where the design of each one adapted to the list that was given as a parameter. No matter the size of the list or its elements, the program processed this information and displayed it correctly on the panel.</p>
-<p>We also programmed the chart&rsquo;s color system, so that all the &lsquo;movements&rsquo; that the program made with the lists were recorded and added as &lsquo;frames&rsquo; in the animator.
-After that, we also had to implement the algorithms, and record all the movements of the list at each step of the operation, in order to facilitate the understanding of their operation.</p>
+
+    
+    <a href="/en/video/animadoralgoritmos/" class="more">Continue reading</a>
+    
     
 </div>
 
