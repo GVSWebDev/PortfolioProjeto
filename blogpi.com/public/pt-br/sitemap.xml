@@ -3,6 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/joao-larini/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/joao-larini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/joao-larini/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gallery/projeto-pessoal-joao-larini/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/projeto-pessoal-joao-larini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/projeto-pessoal-joao-larini/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/projetos-pessoais/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/projetos-pessoais/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/projetos-pessoais/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/article/</loc>
     <lastmod>2020-05-30T20:25:43-03:00</lastmod>
     <xhtml:link
@@ -33,21 +138,6 @@
   </url>
   
   <url>
-    <loc>/author/</loc>
-    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/author/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/gabriel-vilela-serra/</loc>
     <lastmod>2020-05-30T20:25:43-03:00</lastmod>
     <xhtml:link
@@ -59,21 +149,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/author/gabriel-vilela-serra/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/"
                 />
   </url>
   
@@ -93,21 +168,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-30T20:25:43-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/gallery/blog-acessivel-web/</loc>
     <lastmod>2020-04-26T16:23:19-03:00</lastmod>
     <xhtml:link
@@ -119,21 +179,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/gallery/blog-acessivel-web/"
-                />
-  </url>
-  
-  <url>
-    <loc>/gallery/</loc>
-    <lastmod>2020-04-26T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/gallery/"
                 />
   </url>
   

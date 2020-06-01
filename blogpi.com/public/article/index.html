@@ -45,7 +45,7 @@
     <div class="container">
         <ul class="topnav">
             <li><a href="/">Blog</a></li>
-            <li><a href="/404.html">Projetos Pessoais</a></li>
+            <li><a href="/tags/projetos-pessoais">Projetos Pessoais</a></li>
             <li><a href="/404.html">Tech Stack</a></li>
             <li><a href="/tags/quem-somos">Quem Somos</a></li>
             <li>
@@ -101,7 +101,7 @@
                         <a href="/">Blog</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a href="/404.html">Projetos Pessoais</a>
+                        <a href="/tags/projetos-pessoais">Projetos Pessoais</a>
                     </div>
                     <div class="cstm-btn-container">
                         <a href="/404.html">Tech Stack</a>
@@ -162,10 +162,11 @@
     </div>
 
     
-    <p>A parte mais desafiadora de registrar um domínio é a escolha do nome &hellip; Tantas possibilidades criativas, combinações interessantes, e engraçadas também. Contemplamos adquirir nomes como ronaldinho.soccer, maya.team, teammata.wtf, entre muitos outros. No final, escolhemos o teammaya.codes mesmo, que combina com o intuito do site, e soa bem até. Um dos principais motivos que levaram a essa escolha, foi o fato que eu consegui o pacote de Estudante do GitHub, que me deu um desconto de 100% no primeiro domínio da provedora Name.com. Uma boa iniciativa do GitHub!</p>
-<p>Após &ldquo;comprar&rdquo; o domínio, tive que descobrir como configurava o DNS. De início, eu só fui passando pelas funcionalidades oferecidas pela Dashboard do Name.com, até que cheguei em uma denomeada de &ldquo;URL Forwarding&rdquo;, que servia para redirecionar o dominio para outra URL. A primeira coisa que fiz foi fazer com que o dominio redirecionasse para o IP do nosso site. Mas não era tão simples assim aparentemente, pois o dominio ainda retornada um erro dizendo que não era possível resolver o Hostname. Continuei procurando, e achei o painel de configuração dos Registros de DNS. Alguns provedores de dominios já configuram &ldquo;de fábrica&rdquo;, mas não tinha nada pré-configurado lá. O bom é que o próprio site tinha uma certa documentação que especificava o que cada coisa fazia de forma bem simples de entender. Lá, aprendi que pecisava fazer Registros de DNS tipo A, para conectar o domínio ao nosso site. Fiz 2 registros, um para todos os subdominios, e outro pra uso geral, todos apontando ao IP do nosso site.</p>
-<p>Também já aproveitei e fui atrás de configurar os registros MX para redirecionamento dos emails, como especificado na atividade. De inicio, tentei fazer algo direto com o Gmail, usando o G Suite, até descobrir que era pago. Depois, procurei uma alternativa pela Amazon. Descobri o serviço Amazon Simple Email Service (SES) que prometia fazer redirecionamento de emails. Para isso, precisava verificar que era dono do domínio adicionando um Registro TXT com um certo código que eles providenciaram. Esse processo demoraria até 72h para ser completo, então fiz o que foi pedido e deixei por assim mesmo. Mas curioso, ainda continuei pesquisando sobre as funcionalidades do Dashboard do Name.com. Então, achei um serviço de redirecionamento de emails deles mesmos! Bastava colocar o endereço de email ao qual seriam redirecionados para. Em questão de minutos, o site já estava funcionando com o domínio correto, e os emails já estavam sendo redirecionados com sucesso para o email de teste no qual eu configurei previamente. Sucesso!</p>
+    A parte mais desafiadora de registrar um domínio é a escolha do nome &hellip; Tantas possibilidades criativas, combinações interessantes, e engraçadas também. Contemplamos adquirir nomes como ronaldinho.soccer, maya.team, teammata.wtf, entre muitos outros. No final, escolhemos o teammaya.codes mesmo, que combina com o intuito do site, e soa bem até. Um dos principais motivos que levaram a essa escolha, foi o fato que eu consegui o pacote de Estudante do GitHub, que me deu um desconto de 100% no primeiro domínio da provedora Name.
 
+    
+    <a href="/article/adicionandodomain/" class="more">Continuar lendo</a>
+    
     
 </div>
 
@@ -235,11 +236,18 @@
     </div>
 
     
-    Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal, implementamos eles com o uso de HTML e SASS para que fique mais organizado os tipos de post que criamos, também alteramos as opções de línguagem padrão que são inglês e alemão para português (padrão) e inglês. Quando se clica na opção inglês o site carrega uma versão em inglês dos posts.
+    <p>Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal,
+implementamos eles com o uso de HTML e SASS para que fique mais organizado os tipos de post que criamos, também alteramos as opções
+de línguagem padrão que são inglês e alemão para português (padrão) e inglês. Quando se clica na opção inglês o site
+carrega uma versão em inglês dos posts.
+Para acomodar o novo menu, também foi necessário a criação de regras mediaquery no SASS para que a página
+ainda ficasse responsiva e se adaptasse ao tamanho da janela. Em telas mobile, o menu é escondido e passa ser localizado
+no menu nav, localizado no topo de página e podendo ser aberto por o botão hamburger.</p>
+<p>Também foi modificado a largura do site pois sentimos que a largura original era um pouco estreita. O círculo contendo a foto da equipe
+teve seu tamanho aumentado para que a imagem ficasse mais clara.
+As cores principais do website também sofreram uma leve alteração, porém ainda vamos experimentar outras opções pra ver qual vai do gosto
+geral.</p>
 
-    
-    <a href="/article/alteracaotema/" class="more">Continuar lendo</a>
-    
     
 </div>
 
@@ -537,6 +545,10 @@ Pretendo continuar meu estudos sobre estruturas de sistemas e poder acrescentar 
         <div class="recent-posts">
             <strong>Últimos posts</strong>
             <ul>
+                
+                <li>
+                    <a href="/gallery/projeto-pessoal-joao-larini/">Projeto pessoal João Larini</a>
+                </li>
                 
                 <li>
                     <a href="/article/adicionandodomain/">Registrando e Configurando o Domínio</a>

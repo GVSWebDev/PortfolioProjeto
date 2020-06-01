@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joao Larini on Portfolio Project</title>
+    <link>/en/author/joao-larini/</link>
+    <description>Recent content in Joao Larini on Portfolio Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 May 2020 16:23:19 -0300</lastBuildDate>
+    
+	<atom:link href="/en/author/joao-larini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal project João Larini</title>
+      <link>/en/gallery/projeto-pessoal-joao-larini/</link>
+      <pubDate>Sun, 31 May 2020 16:23:19 -0300</pubDate>
+      
+      <guid>/en/gallery/projeto-pessoal-joao-larini/</guid>
+      <description>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
