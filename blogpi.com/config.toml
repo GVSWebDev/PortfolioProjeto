@@ -18,6 +18,9 @@ disqusShortname = "teammaya"
 [blackfriday]
   hrefTargetBlank = false
 
+[markup.goldmark.renderer] 
+unsafe= true
+
 [params]
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
@@ -49,7 +52,7 @@ disqusShortname = "teammaya"
     # let hugo automatically resize and crop your images to the correct sizes
     # NB: When enabled the image files get renamed by adding additional information,
     #     even if the image has the correct sizes.
-    resizeImages = false
+    resizeImages = true
 
   # Header configuration
     # your subtitle if you want to use any
