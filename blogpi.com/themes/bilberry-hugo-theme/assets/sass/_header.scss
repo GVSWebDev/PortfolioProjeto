@@ -85,7 +85,7 @@ header {
     .logo {
         font-size: 40pt !important;
         background-color: $logo-color;
-        border-radius: 50%;
+        border-radius: 25%;
         width: 140px;
         height: 140px;
         border: 5px $logo-color solid;
@@ -108,7 +108,7 @@ header {
 
         img {
             max-width: 100%;
-            border-radius: 50%;
+            border-radius: 25%;
         }
 
         .overlay {
@@ -118,7 +118,7 @@ header {
             bottom: 0;
             right: 0;
             background-color: $bubble-hover-color;
-            border-radius: 50%;
+            border-radius: 25%;
             display: flex;
             align-items: center;
             justify-content: center;

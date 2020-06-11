@@ -7952,7 +7952,7 @@ html[xmlns] .flexslider .slides {
 .bilberry-hugo-theme header .logo {
   font-size: 40pt !important;
   background-color: #eeeeee;
-  border-radius: 50%;
+  border-radius: 25%;
   width: 140px;
   height: 140px;
   border: 5px #eeeeee solid;
@@ -7971,7 +7971,7 @@ html[xmlns] .flexslider .slides {
 }
 .bilberry-hugo-theme header .logo img {
   max-width: 100%;
-  border-radius: 50%;
+  border-radius: 25%;
 }
 .bilberry-hugo-theme header .logo .overlay {
   position: absolute;
@@ -7980,7 +7980,7 @@ html[xmlns] .flexslider .slides {
   bottom: 0;
   right: 0;
   background-color: #5c8b59;
-  border-radius: 50%;
+  border-radius: 25%;
   display: flex;
   align-items: center;
   justify-content: center;
