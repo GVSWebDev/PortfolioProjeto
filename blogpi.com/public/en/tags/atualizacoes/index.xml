@@ -25,7 +25,12 @@
       <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
       
       <guid>/en/gallery/blog-acessivel-web/</guid>
-      <description>Initially, we registered for access to the AWS website. We started a virtual machine using EC2 (Image 1), from AWS, running the Amazon Linux 2 distribution (Images 2 and 3). We performed the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update) (Image 4) and installed the Apache service to create the blog Host on the Web (Image 5), for this it was necessary to compile the blog.</description>
+      <description>Initially we registered for access to the AWS website, We started a virtual machine using EC2,
+AWS, running the Amazon Linux 2 distribution.
+ We perform the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update)
+and we installed the Apache service to create the blog Host on the web,
+for that it was necessary to compile the blog.
+In order to make the blog structure easier to access, we installed git so that we can clone, transfer files and version the blog.</description>
     </item>
     
     <item>

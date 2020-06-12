@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacks on Projeto Portfolio</title>
+    <link>/tags/hacks/</link>
+    <description>Recent content in Hacks on Projeto Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Jun 2020 21:50:14 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vocês tapam a câmera do seu notebook</title>
+      <link>/video/camera/</link>
+      <pubDate>Thu, 11 Jun 2020 21:50:14 -0300</pubDate>
+      
+      <guid>/video/camera/</guid>
+      <description>Heyy Encontrei esse vídeo relacionado à segurança da informação, eu sempre tive essa dúvida se era verdade ou mito que você tinha a chance de ter suas imagens vazadas, porque acessaram a sua máquina e ligaram a webcam. Vale a atenção :D</description>
+    </item>
+    
+  </channel>
+</rss>

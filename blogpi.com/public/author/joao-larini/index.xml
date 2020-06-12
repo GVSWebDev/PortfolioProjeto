@@ -5,10 +5,19 @@
     <link>/author/joao-larini/</link>
     <description>Recent content in Joao Larini on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 May 2020 16:23:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 16:23:19 -0300</lastBuildDate>
     
 	<atom:link href="/author/joao-larini/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ray Tracing aplicado em Minecraft</title>
+      <link>/gallery/ray-tracing/</link>
+      <pubDate>Thu, 11 Jun 2020 16:23:19 -0300</pubDate>
+      
+      <guid>/gallery/ray-tracing/</guid>
+      <description>Utilizando a tecnologia Ray Tracing, alguns jogadores transformaram completamente o jogo Minecraft, tornando-o super realista.</description>
+    </item>
     
     <item>
       <title>Lampada Gamer</title>
@@ -16,7 +25,8 @@
       <pubDate>Sun, 31 May 2020 16:23:19 -0300</pubDate>
       
       <guid>/gallery/projeto-pessoal-joao-larini/</guid>
-      <description>Em 2017 comecei um curso para aprender mais sobre o hardware do computador e servidores e seus usos/configuração. No final do curso precisei fazer um trabalho para conclusão utilizando todos os assuntos ensinados. Minha decisão foi fazer uma lâmpada/abajur ser ligado remotamente pelo celular ou computador. Para isso utilizei um micro computador chamado Raspberry PI [Imagem 1], ele possui vários barramentos idênticos ao de um computador normal (USB, Ethernet, etc) e utiliza um micro SD como armazenamento.</description>
+      <description>Em 2017 comecei um curso para aprender mais sobre o hardware do computador e servidores e seus usos/configuração. No final do curso precisei fazer um trabalho para conclusão utilizando todos os assuntos ensinados. Minha decisão foi fazer uma lâmpada/abajur ser ligado remotamente pelo celular ou computador. Para isso utilizei um micro computador chamado Raspberry PI,
+ele possui vários barramentos idênticos ao de um computador normal (USB, Ethernet, etc) e utiliza um micro SD como armazenamento.</description>
     </item>
     
   </channel>

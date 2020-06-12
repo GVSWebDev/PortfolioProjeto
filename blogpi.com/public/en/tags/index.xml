@@ -5,10 +5,28 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 May 2020 17:53:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 21:50:14 -0300</lastBuildDate>
     
 	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hacks</title>
+      <link>/en/tags/hacks/</link>
+      <pubDate>Thu, 11 Jun 2020 21:50:14 -0300</pubDate>
+      
+      <guid>/en/tags/hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/en/tags/music/</link>
+      <pubDate>Thu, 11 Jun 2020 21:22:55 -0300</pubDate>
+      
+      <guid>/en/tags/music/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projetos Pessoais</title>
@@ -29,11 +47,29 @@
     </item>
     
     <item>
+      <title>Memes</title>
+      <link>/en/tags/memes/</link>
+      <pubDate>Mon, 25 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/en/tags/memes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quem somos</title>
       <link>/en/tags/quem-somos/</link>
       <pubDate>Sun, 29 Mar 2020 17:53:11 -0300</pubDate>
       
       <guid>/en/tags/quem-somos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>/en/tags/tech-stack/</link>
+      <pubDate>Mon, 03 Feb 2020 22:25:57 -0300</pubDate>
+      
+      <guid>/en/tags/tech-stack/</guid>
       <description></description>
     </item>
     

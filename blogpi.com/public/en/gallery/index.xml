@@ -16,7 +16,8 @@
       <pubDate>Sun, 31 May 2020 16:23:19 -0300</pubDate>
       
       <guid>/en/gallery/projeto-pessoal-joao-larini/</guid>
-      <description>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI [Image 1], it has several buses identical to a normal computer (USB, Ethernet, etc.</description>
+      <description>In 2017 I started a course to learn more about computer hardware and servers and their uses / configuration. At the end of the course I had to do a conclusion work using all subjects taught. My decision was to make a lamp / lamp be connected remotely by cell phone or computer. For this I used a micro computer called Raspberry PI,
+it has several buses identical to a normal computer (USB, Ethernet, etc.</description>
     </item>
     
     <item>
@@ -25,7 +26,12 @@
       <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
       
       <guid>/en/gallery/blog-acessivel-web/</guid>
-      <description>Initially, we registered for access to the AWS website. We started a virtual machine using EC2 (Image 1), from AWS, running the Amazon Linux 2 distribution (Images 2 and 3). We performed the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update) (Image 4) and installed the Apache service to create the blog Host on the Web (Image 5), for this it was necessary to compile the blog.</description>
+      <description>Initially we registered for access to the AWS website, We started a virtual machine using EC2,
+AWS, running the Amazon Linux 2 distribution.
+ We perform the updates of the VM&amp;rsquo;s operating system (with the command: sudo yum update)
+and we installed the Apache service to create the blog Host on the web,
+for that it was necessary to compile the blog.
+In order to make the blog structure easier to access, we installed git so that we can clone, transfer files and version the blog.</description>
     </item>
     
   </channel>

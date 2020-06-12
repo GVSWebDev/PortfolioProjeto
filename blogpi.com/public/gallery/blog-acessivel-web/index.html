@@ -19,8 +19,13 @@
     <meta property="og:site_name" content="Projeto Portfolio">
     <meta property="og:type" content="article">
 
-    
-
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
     
     <link href="/gallery/blog-acessivel-web/" rel="alternate" type="application/rss+xml" title="Projeto Portfolio" />
@@ -47,7 +52,7 @@
         <ul class="topnav">
             <li><a href="/">Blog</a></li>
             <li><a href="/tags/projetos-pessoais">Projetos Pessoais</a></li>
-            <li><a href="/404.html">Tech Stack</a></li>
+            <li><a href="/article/tech-stack/techstack/">Tech Stack</a></li>
             <li><a href="/tags/quem-somos">Quem Somos</a></li>
             <li>
                 
@@ -105,7 +110,7 @@
                         <a href="/tags/projetos-pessoais">Projetos Pessoais</a>
                     </div>
                     <div class="cstm-btn-container">
-                        <a href="/404.html">Tech Stack</a>
+                        <a href="/article/tech-stack/techstack/">Tech Stack</a>
                     </div>
                     <div class="cstm-btn-container">
                         <a href="/tags/quem-somos">Quem Somos</a>
@@ -142,28 +147,6 @@
         <ul class="slides">
             
             
-            <li><img src="/gallery/blog-acessivel-web/web1.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web10.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web11.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web12.jpg" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web2.jpg" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web3.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web4.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web5.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web6.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web7.png" /></li>
-            
-            <li><img src="/gallery/blog-acessivel-web/web8.png" /></li>
-            
             
         </ul>
     </div>
@@ -192,11 +175,29 @@
     </div>
 
     
-    <p>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2 (Imagem 1), do AWS, rodando a distribuição Amazon Linux 2 (Imagem 2 e 3). Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update) (Imagem 4) e instalamos o serviço Apache para criar o Host do blog na Web (Imagem 5), para isso foi necessário compilar o blog.</p>
-<p>A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog (Imagem 6).
-Com o projeto devidamente clonado, copiamos os arquivos compilados para a pasta do Apache (Imagem 7).</p>
-<p>Feito isso, configuramos o firewall da máquina, com o sistema de firewall já incluso no site da AWS (Imagem 8), retirando a necessidade de baixar qualquer outro aplicativo de firewall ou configurar diretamente dentro da VM. O sistema de Firewall da AWS permite criar facilmente regras de entrada e saída de dados (Imagem 9), para que o serviço do Apache com o nosso blog seja acessível de uma rede externa, criamos uma regra que permite conexões na porta 80 da máquina (porta utilizada pelo serviço Apache) (Imagem 10).</p>
-<p>Após isso o nosso serviço estava funcionando normalmente, e ao digitarmos o IP público da VM no navegador (Imagem 11), o proprio navegador automaticamente já redireciona para a porta 80 da VM acessando o Apache e exibindo o nosso blog compilado (Imagem 12).</p>
+    <p>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2 ,</p>
+<div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/555568413674700800/704047870277582978/unknown.png" ></div>
+<p>do AWS, rodando a distribuição Amazon Linux 2.</p>
+ <div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/555568413674700800/704048067455746179/unknown.png" ></div>
+<hr>
+ <div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/555568413674700800/704049341098098893/unknown.png" ></div>
+<p>Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update)</p>
+ <div style="text-align:center"><img style="width:60%" src="https://cdn.discordapp.com/attachments/555568413674700800/704049568144293908/unknown.png" ></div>
+<p>e instalamos o serviço Apache para criar o Host do blog na Web,</p>
+ <div style="text-align:center"><img style="width:60%" src="https://cdn.discordapp.com/attachments/555568413674700800/704050113172996256/unknown.png" ></div>
+<p>para isso foi necessário compilar o blog.</p>
+<p>A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog.</p>
+ <div style="text-align:center"><img style="width:60%" src="https://cdn.discordapp.com/attachments/555568413674700800/704050443441012896/unknown.png" ></div>
+<p>Com o projeto devidamente clonado, copiamos os arquivos compilados para a pasta do Apache.</p>
+<div style="text-align:center"><img style="width:60%" src=https://cdn.discordapp.com/attachments/555568413674700800/704050961005543484/unknown.png ></div>
+<p>Feito isso, configuramos o firewall da máquina, com o sistema de firewall já incluso no site da AWS,</p>
+<div style="text-align:center"><img src=https://cdn.discordapp.com/attachments/555568413674700800/704051343731720253/unknown.png ></div>
+<p>retirando a necessidade de baixar qualquer outro aplicativo de firewall ou configurar diretamente dentro da VM. O sistema de Firewall da AWS permite criar facilmente regras de entrada e saída de dados,</p>
+<div style="text-align:center"><img src=https://media.discordapp.net/attachments/555568413674700800/704051766005596190/unknown.png?width=1026&height=94 ></div>
+<p>para que o serviço do Apache com o nosso blog seja acessível de uma rede externa, criamos uma regra que permite conexões na porta 80 da máquina (porta utilizada pelo serviço Apache).</p>
+ <div style="text-align:center"><img src=https://media.discordapp.net/attachments/555568413674700800/704052989068836884/unknown.png ></div>
+<p>Após isso o nosso serviço estava funcionando normalmente, e ao digitarmos o IP público da VM no navegador (Imagem 11), o proprio navegador automaticamente já redireciona para a porta 80 da VM acessando o Apache e exibindo o nosso blog compilado.</p>
+<div style="text-align:center"><img src=https://media.discordapp.net/attachments/555568413674700800/704053227880054934/unknown.png?width=1026&height=347 ></div>
 
     
 </div>
@@ -272,6 +273,18 @@ Com o projeto devidamente clonado, copiamos os arquivos compilados para a pasta 
             <ul>
                 
                 <li>
+                    <a href="/video/camera/">Vocês tapam a câmera do seu notebook</a>
+                </li>
+                
+                <li>
+                    <a href="/audio/playlist/">Musicas pra programar</a>
+                </li>
+                
+                <li>
+                    <a href="/gallery/ray-tracing/">Ray Tracing aplicado em Minecraft</a>
+                </li>
+                
+                <li>
                     <a href="/article/projetopessoal_heber/">Primeiro Projeto Pessoal, Heber Junior</a>
                 </li>
                 
@@ -287,18 +300,6 @@ Com o projeto devidamente clonado, copiamos os arquivos compilados para a pasta 
                     <a href="/video/animadoralgoritmos/">Animador de Algoritmos</a>
                 </li>
                 
-                <li>
-                    <a href="/gallery/blog-acessivel-web/">Deixando o Blog Acessível na Web</a>
-                </li>
-                
-                <li>
-                    <a href="/article/alteracaotema/">Alterações do Tema</a>
-                </li>
-                
-                <li>
-                    <a href="/article/quemsomos_joao/">Quem é João Pedro Larini</a>
-                </li>
-                
             </ul>
         </div>
         
@@ -310,6 +311,11 @@ Com o projeto devidamente clonado, copiamos os arquivos compilados para a pasta 
                 
                 <li>
                     <a href="/categories/video">Video
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/galeria">Galeria
                         (1)</a>
                 </li>
                 

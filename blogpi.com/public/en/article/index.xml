@@ -64,5 +64,14 @@
       <description>Currently studying Computer Science, I usually research on the subject since I was a child, in order to facilitate everyday tasks. I am interested in the area of ​​information security, cryptography, social structure and malware, I believe that the area is currently little known and deserves greater attention, given the importance that information manipulation has over other areas. I intend to continue my studies on systems structures and be able to add as much information to the IT community.</description>
     </item>
     
+    <item>
+      <title>Tools Used</title>
+      <link>/en/article/tech-stack/techstack/</link>
+      <pubDate>Mon, 03 Feb 2020 22:25:57 -0300</pubDate>
+      
+      <guid>/en/article/tech-stack/techstack/</guid>
+      <description>Static Gen: Hugo To start building the blog, we selected a Static Gen (Static Site Generator) called Hugo, its function is to serve as the basis for a customizable theme. Together with Hugo, we installed a theme called Billburry, the theme deals with the visual part of the blog, while Hugo with the code part. Hugo has a server internal, using it we can generate a &amp;ldquo;preview&amp;rdquo; with the changes we made to the theme, after making considerable changes, we send the changes to our repository on GitHub.</description>
+    </item>
+    
   </channel>
 </rss>

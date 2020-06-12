@@ -5,10 +5,19 @@
     <link>/en/categories/video/</link>
     <description>Recent content in Video on Portfolio Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 May 2020 16:23:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 21:50:14 -0300</lastBuildDate>
     
 	<atom:link href="/en/categories/video/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Do you cover the webcam on your notebook?</title>
+      <link>/en/video/camera/</link>
+      <pubDate>Thu, 11 Jun 2020 21:50:14 -0300</pubDate>
+      
+      <guid>/en/video/camera/</guid>
+      <description>Heyy I found this video related to information security, I always had this doubt if it was true or myth that you had the chance to have your images leaked, because they accessed your machine and turned on the webcam. Worth the attention :D</description>
+    </item>
     
     <item>
       <title>Algorithms Animator</title>
@@ -18,6 +27,18 @@
       <guid>/en/video/animadoralgoritmos/</guid>
       <description>&lt;p&gt;A very interesting project that I worked with João was the project of the algorithm animator, which we did in the discipline Computer Laboratory II of professor Ricardo Inacio.&lt;/p&gt;
 &lt;p&gt;In the video above, I demonstrate how this program works, and also mention the difficulties encountered along the way.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ronaldinho Soccer 64</title>
+      <link>/en/video/hahaharonaldinhosoccer/</link>
+      <pubDate>Mon, 25 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/en/video/hahaharonaldinhosoccer/</guid>
+      <description>&lt;p&gt;One of the best memes of 2020. Period.
+Why does it exist? Why did something like that become a meme? Nobody knows. But something about this introduction to a bootleg game made for the Brazilian market and developed by a Peruvian company is too funny for me.&lt;/p&gt;
+&lt;p&gt;Perhaps Ronaldo&amp;rsquo;s sarcastic laugh (?), Along with a possibly Peruvian person speaking a Brazilian name and an English word in quick succession.
+Perhaps the soundtrack, that the more you hear, the more you want to hear. Something tells me that we&amp;rsquo;ll never know for sure &amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

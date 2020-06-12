@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/article/</loc>
-    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/article/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/</loc>
-    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +18,38 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/hacks/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/hacks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/hacks/"
+                />
+  </url>
+  
+  <url>
     <loc>/author/heber-junior/</loc>
-    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,6 +59,176 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/author/heber-junior/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/video/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/categories/video/"
+                />
+  </url>
+  
+  <url>
+    <loc>/video/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/video/"
+                />
+  </url>
+  
+  <url>
+    <loc>/video/camera/</loc>
+    <lastmod>2020-06-11T21:50:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/video/camera/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/video/camera/"
+                />
+  </url>
+  
+  <url>
+    <loc>/audio/</loc>
+    <lastmod>2020-06-11T21:22:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/audio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/audio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/musica/</loc>
+    <lastmod>2020-06-11T21:22:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/audio/playlist/</loc>
+    <lastmod>2020-06-11T21:22:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/audio/playlist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/audio/playlist/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/galeria/</loc>
+    <lastmod>2020-06-11T16:23:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+    <lastmod>2020-06-11T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/joao-larini/</loc>
+    <lastmod>2020-06-11T16:23:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/joao-larini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/author/joao-larini/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/minecraft/</loc>
+    <lastmod>2020-06-11T16:23:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gallery/ray-tracing/</loc>
+    <lastmod>2020-06-11T16:23:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article/</loc>
+    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/"
                 />
   </url>
   
@@ -63,21 +248,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/projetos-pessoais/</loc>
     <lastmod>2020-05-31T17:53:11-03:00</lastmod>
     <xhtml:link
@@ -89,51 +259,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/tags/projetos-pessoais/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-31T17:53:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/gallery/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/gallery/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/joao-larini/</loc>
-    <lastmod>2020-05-31T16:23:19-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/joao-larini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/author/joao-larini/"
                 />
   </url>
   
@@ -213,47 +338,32 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-30T16:23:40+01:00</lastmod>
+    <loc>/tags/memes/</loc>
+    <lastmod>2020-05-25T16:23:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/en/tags/memes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/categories/"
+                href="/tags/memes/"
                 />
   </url>
   
   <url>
-    <loc>/categories/video/</loc>
-    <lastmod>2020-05-30T16:23:40+01:00</lastmod>
+    <loc>/video/hahaharonaldinhosoccer/</loc>
+    <lastmod>2020-05-25T16:23:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/video/"
+                href="/en/video/hahaharonaldinhosoccer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/categories/video/"
-                />
-  </url>
-  
-  <url>
-    <loc>/video/</loc>
-    <lastmod>2020-05-30T16:23:40+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/video/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/video/"
+                href="/video/hahaharonaldinhosoccer/"
                 />
   </url>
   
@@ -389,6 +499,36 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/article/quemsomos_heber/"
+                />
+  </url>
+  
+  <url>
+    <loc>/article/tech-stack/techstack/</loc>
+    <lastmod>2020-02-03T22:25:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/tech-stack/techstack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/article/tech-stack/techstack/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/tech-stack/</loc>
+    <lastmod>2020-02-03T22:25:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/tech-stack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/tags/tech-stack/"
                 />
   </url>
   

@@ -5,10 +5,19 @@
     <link>/categories/video/</link>
     <description>Recent content in Video on Projeto Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 May 2020 16:23:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 21:50:14 -0300</lastBuildDate>
     
 	<atom:link href="/categories/video/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vocês tapam a câmera do seu notebook</title>
+      <link>/video/camera/</link>
+      <pubDate>Thu, 11 Jun 2020 21:50:14 -0300</pubDate>
+      
+      <guid>/video/camera/</guid>
+      <description>Heyy Encontrei esse vídeo relacionado à segurança da informação, eu sempre tive essa dúvida se era verdade ou mito que você tinha a chance de ter suas imagens vazadas, porque acessaram a sua máquina e ligaram a webcam. Vale a atenção :D</description>
+    </item>
     
     <item>
       <title>Animador de Algoritmos</title>
@@ -18,6 +27,18 @@
       <guid>/video/animadoralgoritmos/</guid>
       <description>&lt;p&gt;Um projeto muito interessante que trabalhei com o João foi o projeto do animador de algoritmos, que fizemos na disciplina Laboratório de Computação II do professor Ricardo Inacio.&lt;/p&gt;
 &lt;p&gt;No vídeo acima, demonstro o funcionamento desse programa, e também cito as dificuldades encontradas no caminho.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ronaldinho Soccer 64</title>
+      <link>/video/hahaharonaldinhosoccer/</link>
+      <pubDate>Mon, 25 May 2020 16:23:40 +0100</pubDate>
+      
+      <guid>/video/hahaharonaldinhosoccer/</guid>
+      <description>&lt;p&gt;Um dos melhores memes de 2020. Ponto final.
+Por que existe? Por que algo assim foi virar um meme? Ninguém sabe. Mas algo nessa introdução de um jogo bootleg feito para o mercado brasileiro e desenvolvido por uma empresa peruana é engraçado demais pra mim.&lt;/p&gt;
+&lt;p&gt;Talvez a risada sarcástica do Ronaldo(?), juntamente com uma pessoa possivelmente peruana falando um nome Brasileiro e uma palavra em ingles em rapida sucessão. 
+Talvez a trilha sonora, que quanto mais se ouve, mais se quer ouvir. Algo me diz que nunca saberemos ao certo &amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

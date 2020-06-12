@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audios on Projeto Portfolio</title>
+    <link>/audio/</link>
+    <description>Recent content in Audios on Projeto Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Jun 2020 21:22:55 -0300</lastBuildDate>
+    
+	<atom:link href="/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Musicas pra programar</title>
+      <link>/audio/playlist/</link>
+      <pubDate>Thu, 11 Jun 2020 21:22:55 -0300</pubDate>
+      
+      <guid>/audio/playlist/</guid>
+      <description>AOWW TIME!! Achei uma playlist no Spotfy que eu deveras uso pra programar, usa aí se vocês gostarem :V</description>
+    </item>
+    
+  </channel>
+</rss>

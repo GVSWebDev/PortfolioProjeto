@@ -16,8 +16,12 @@
       <pubDate>Sun, 26 Apr 2020 16:23:19 -0300</pubDate>
       
       <guid>/gallery/blog-acessivel-web/</guid>
-      <description>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2 (Imagem 1), do AWS, rodando a distribuição Amazon Linux 2 (Imagem 2 e 3). Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update) (Imagem 4) e instalamos o serviço Apache para criar o Host do blog na Web (Imagem 5), para isso foi necessário compilar o blog.
-A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog (Imagem 6).</description>
+      <description>Inicialmente realizamos o cadastro para acesso ao site da AWS, Inicializamos uma máquina virtual utilizando o EC2 ,
+do AWS, rodando a distribuição Amazon Linux 2.
+ Realizamos as atualizações do sistema operacional da VM (com o comando: sudo yum update)
+e instalamos o serviço Apache para criar o Host do blog na Web,
+para isso foi necessário compilar o blog.
+A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git para podermos clonar, transferir arquivos e versionarmos o blog.</description>
     </item>
     
     <item>
@@ -27,6 +31,15 @@ A fim de realizar um aceso mais fácil à estrutura do blog, instalamos o git pa
       
       <guid>/article/alteracaotema/</guid>
       <description>Modificamos o tema Bilburry para melhor acomodar nosso projeto, o tema em si não possui os botões na aba principal, implementamos eles com o uso de HTML e SASS para que fique mais organizado os tipos de post que criamos, também alteramos as opções de línguagem padrão que são inglês e alemão para português (padrão) e inglês. Quando se clica na opção inglês o site carrega uma versão em inglês dos posts.</description>
+    </item>
+    
+    <item>
+      <title> Ferramentas Utilizadas </title>
+      <link>/article/tech-stack/techstack/</link>
+      <pubDate>Mon, 03 Feb 2020 22:25:57 -0300</pubDate>
+      
+      <guid>/article/tech-stack/techstack/</guid>
+      <description>Static Gen: Hugo Para começar a construção do blog, selecionamos um Static Gen (Static Site Generator) chamado Hugo, sua função é servir de base para um tema customizável. Juntamente do Hugo, instalamos um tema chamado Billburry, o tema trata da parte visual do blog, enquanto o Hugo da parte de código. O Hugo possui um servidor interno, utilizando ele podemos gerar um &amp;ldquo;preview&amp;rdquo; com as mudanças que fizemos ao tema, após fazer mudanças consideráveis, enviamos as alterações ao nosso repositório no GitHub.</description>
     </item>
     
   </channel>

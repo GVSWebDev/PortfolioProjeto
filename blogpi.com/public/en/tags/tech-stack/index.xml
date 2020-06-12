@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Stack on Portfolio Project</title>
+    <link>/en/tags/tech-stack/</link>
+    <description>Recent content in Tech Stack on Portfolio Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Feb 2020 22:25:57 -0300</lastBuildDate>
+    
+	<atom:link href="/en/tags/tech-stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools Used</title>
+      <link>/en/article/tech-stack/techstack/</link>
+      <pubDate>Mon, 03 Feb 2020 22:25:57 -0300</pubDate>
+      
+      <guid>/en/article/tech-stack/techstack/</guid>
+      <description>Static Gen: Hugo To start building the blog, we selected a Static Gen (Static Site Generator) called Hugo, its function is to serve as the basis for a customizable theme. Together with Hugo, we installed a theme called Billburry, the theme deals with the visual part of the blog, while Hugo with the code part. Hugo has a server internal, using it we can generate a &amp;ldquo;preview&amp;rdquo; with the changes we made to the theme, after making considerable changes, we send the changes to our repository on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
