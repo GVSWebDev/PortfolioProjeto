@@ -5,6 +5,8 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(https://pngimage.net/wp-content/uploads/2018/06/pattern-web-png-9.png);
+    background-repeat: repeat;
 
     .cstm-menu-strip{
         position: relative;
@@ -67,6 +69,7 @@ header {
         align-items: center;
         height: 100%;
         z-index: 10;
+        
 
         &:after {
             content: "";
