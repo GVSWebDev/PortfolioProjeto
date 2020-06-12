@@ -7,7 +7,7 @@ tags: ['Memes']
 author: "Gabriel Vilela Serra"
 
 # Set your video id for
-youtube: "94ohs8Hp7Jc"
+youtube: "2bpAg2QI-HM"
 ---
 One of the best memes of 2020. Period.
 Why does it exist? Why did something like that become a meme? Nobody knows. But something about this introduction to a bootleg game made for the Brazilian market and developed by a Peruvian company is too funny for me.
