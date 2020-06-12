@@ -9,7 +9,7 @@ spotify:  "https://open.spotify.com/playlist/5RtIoZHMy9nfJ8mCNGceFy"
 ---
 
 AOWW TIME!!
-<br> 
+<br>
 Achei uma playlist no Spotfy que eu deveras uso pra programar, usa aí se vocês gostarem 
 <br>
 :V

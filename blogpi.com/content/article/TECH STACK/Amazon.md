@@ -1,6 +1,6 @@
 ---
 title: "Virtualização: Amazon AWS"
-date: 2020-06-11T22:25:57-03:00
+date: 2020-02-03T22:25:57-03:00
 tags: ['Tech Stack']
 author: "Team Maya"
 ---

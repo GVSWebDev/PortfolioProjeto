@@ -1,6 +1,6 @@
 ---
 title: "Static Gen: Hugo"
-date: 2020-06-11T22:25:55-03:00
+date: 2020-02-05T22:25:55-03:00
 tags: ['Tech Stack']
 author: "Team Maya"
 ---
