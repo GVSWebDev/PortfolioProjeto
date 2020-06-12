@@ -9,12 +9,48 @@ author: "Team Maya"
  
 
 ---
+Initially we registered for access to the AWS website, We started a virtual machine using EC2,
 
-Initially, we registered for access to the AWS website. We started a virtual machine using EC2 (Image 1), from AWS, running the Amazon Linux 2 distribution (Images 2 and 3). We performed the updates of the VM's operating system (with the command: sudo yum update) (Image 4) and installed the Apache service to create the blog Host on the Web (Image 5), for this it was necessary to compile the blog.
+<div style = "text-align: center"> <img src = "https://cdn.discordapp.com/attachments/555568413674700800/704047870277582978/unknown.png"> </div>
 
-In order to make the blog structure easier to access, we installed git so that we can clone, transfer files and version the blog (Image 6).
-With the project properly cloned, we copy the compiled files to the Apache folder (Image 7).
+ AWS, running the Amazon Linux 2 distribution.
+ 
+ <div style = "text-align: center"> <img src = "https://cdn.discordapp.com/attachments/555568413674700800/704048067455746179/unknown.png"> </div>
+ 
+***
 
-Once this is done, we configure the machine's firewall, with the firewall system already included on the AWS website (Image 8), removing the need to download any other firewall application or configure directly inside the VM. The AWS Firewall system allows you to easily create data entry and exit rules (Image 9), so that the Apache service with our blog is accessible from an external network, we created a rule that allows connections on port 80 of the machine ( port used by the Apache service) (Image 10).
+ <div style = "text-align: center"> <img src = "https://cdn.discordapp.com/attachments/555568413674700800/704049341098098893/unknown.png"> </div>
 
-After that our service was working normally, and when we type the VM's public IP into the browser (Image 11), the browser itself automatically redirects to the VM's port 80 by accessing Apache and displaying our compiled blog (Image 12).
+We perform the updates of the VM's operating system (with the command: sudo yum update)
+
+ <div style = "text-align: center"> <img style = "width: 60%" src = "https://cdn.discordapp.com/attachments/555568413674700800/704049568144293908/unknown.png"> </div>
+
+and we installed the Apache service to create the blog Host on the web,
+
+ <div style = "text-align: center"> <img style = "width: 60%" src = "https://cdn.discordapp.com/attachments/555568413674700800/704050113172996256/unknown.png"> </div>
+
+ for that it was necessary to compile the blog.
+
+In order to make the blog structure easier to access, we installed git so that we can clone, transfer files and version the blog.
+
+ <div style = "text-align: center"> <img style = "width: 60%" src = "https://cdn.discordapp.com/attachments/555568413674700800/704050443441012896/unknown.png"> </div>
+
+With the project properly cloned, we copy the compiled files to the Apache folder.
+
+<div style = "text-align: center"> <img style = "width: 60%" src = https://cdn.discordapp.com/attachments/555568413674700800/704050961005543484/unknown.png> </div>
+
+That done, we set up the machine’s firewall, with the firewall system already included on the AWS website,
+
+<div style = "text-align: center"> <img src = https://cdn.discordapp.com/attachments/555568413674700800/704051343731720253/unknown.png> </div>
+
+removing the need to download any other firewall application or configure directly within the VM. The AWS Firewall system allows you to easily create data entry and exit rules,
+
+<div style = "text-align: center"> <img src = https://media.discordapp.net/attachments/555568413674700800/704051766005596190/unknown.png?width=1026&height=94> </div>
+
+ so that the Apache service with our blog is accessible from an external network, we created a rule that allows connections on port 80 of the machine (port used by the Apache service).
+
+ <div style = "text-align: center"> <img src = https://media.discordapp.net/attachments/555568413674700800/704052989068836884/unknown.png> </div>
+
+After that our service was working normally, and when we type the VM's public IP into the browser (Image 11), the browser itself automatically redirects to the VM's port 80 by accessing Apache and displaying our compiled blog.
+
+<div style = "text-align: center"> <img src =https://media.discordapp.net/attachments/555568413674700800/704053227880054934/unknown.png?width=1026&height=347 > </div>
