@@ -7888,7 +7888,7 @@ html[xmlns] .flexslider .slides {
 }
 .bilberry-hugo-theme header .cstm-menu-strip {
   position: relative;
-  width: 100vw;
+  width: 100%;
   background-color: #422d2d;
   z-index: 10;
 }
